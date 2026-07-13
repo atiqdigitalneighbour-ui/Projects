@@ -50,7 +50,7 @@ PVC railing gates require minimal maintenance. The material does not require pai
 
 The hardware components, particularly hinges and the drop rod mechanism, benefit from annual lubrication. Inspect fixings periodically and tighten any that have loosened through use or thermal expansion.
 
-For the full range of PVC fencing and gate products, visit [vinyl fencing solutions](https://www.pvcfencingsydney.com.au/).
+For the full range of PVC fencing and gate products, visit [PVC Fencing Warehouse Sydney](https://www.pvcfencingsydney.com.au/).
 
 ## Summary
 

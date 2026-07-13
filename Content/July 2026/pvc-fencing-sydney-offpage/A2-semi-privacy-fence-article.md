@@ -56,5 +56,5 @@ When selecting a gate, confirm the gate hardware is specified for the gate panel
 
 Semi privacy PVC fencing offers a practical balance between openness and screening for residential boundaries. The board spacing determines the level of screening, and UV-stabilised PVC provides consistent appearance over time without significant maintenance. Confirming board and gap dimensions, selecting appropriate post spacing, and matching gates to the fence profile are the key decisions in the selection process.
 
-Visit [PVC Fencing Sydney product catalog](https://www.pvcfencingsydney.com.au/) to view the available fence and gate range.
+Visit [Fencing Contractors Sydney](https://www.pvcfencingsydney.com.au/) to view the available fence and gate range.
 
