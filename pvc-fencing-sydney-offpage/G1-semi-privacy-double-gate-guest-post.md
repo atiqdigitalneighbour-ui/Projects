@@ -1,4 +1,4 @@
-# Selecting the Right Semi Privacy Double Gate: A Practical Guide for Property Owners
+﻿# Selecting the Right Semi Privacy Double Gate: A Practical Guide for Property Owners
 
 **Placement type:** Guest Post
 **Primary keyword:** Semi Privacy PVC Double Gate → https://www.pvcfencingsydney.com.au/products/caroline-semi-privacy-double-gates
@@ -64,7 +64,7 @@ If you are adding a double gate to an existing PVC fence, bring the fence profil
 
 If the fence was installed by a different supplier or the product is no longer available, a close match may be the best achievable result. In this case, review samples against the existing fence in natural light before ordering.
 
-For a range of semi privacy double gate options, visit the [Semi Privacy PVC Double Gate](https://www.pvcfencingsydney.com.au/products/caroline-semi-privacy-double-gates) product page. The full PVC fence and gate range from PVC Fencing Sydney is available at [pvcfencingsydney.com.au](https://www.pvcfencingsydney.com.au/).
+For a range of semi privacy double gate options, visit the [Semi Privacy PVC Double Gate](https://www.pvcfencingsydney.com.au/products/caroline-semi-privacy-double-gates) product page. The full PVC fence and gate range from PVC Fencing Sydney is available at [their official online platform](https://www.pvcfencingsydney.com.au/).
 
 ## Maintenance Requirements
 
@@ -78,4 +78,4 @@ Selecting a semi privacy double gate requires attention to width, post specifica
 
 ---
 
-*This article was contributed with information from PVC Fencing Sydney, a supplier of PVC fencing and gates in the Greater Sydney region. The contributor profile for this post is available at [Creative Mornings](https://creativemornings.com/individuals/pvcfencingsydney).*
+

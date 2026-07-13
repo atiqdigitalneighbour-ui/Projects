@@ -1,4 +1,4 @@
-# Single Swing or Sliding: Choosing the Right Full Privacy PVC Gate for Your Property
+﻿# Single Swing or Sliding: Choosing the Right Full Privacy PVC Gate for Your Property
 
 **Placement type:** Web 2.0
 **Primary keyword:** Full Privacy PVC Sliding Gate → https://www.pvcfencingsydney.com.au/products/matilda-full-privacy-sliding-gates
@@ -64,10 +64,10 @@ In sandy or loose soils, posts may need deeper footings or concrete collars. Con
 
 If your driveway is flat, has a clear run of fence on one side, or the opening is wider than two metres, a sliding gate often provides a cleaner solution. If the site is sloped, the opening is narrow, or space on the stacking side is limited, a swing gate is usually the practical choice.
 
-PVC Fencing Sydney provides both gate types in a full privacy panel format. Browse the complete range at [pvcfencingsydney.com.au](https://www.pvcfencingsydney.com.au/) or find the business details via [Google Maps](https://www.google.com/maps?cid=15732812723531130146).
+PVC Fencing Sydney provides both gate types in a full privacy panel format. Browse the complete range at [their main website](https://www.pvcfencingsydney.com.au/) or find the business details via [Google Maps](https://www.google.com/maps?cid=15732812723531130146).
 
-For background information about the business, a profile is available at [Stck.me](https://pvcfencingsydney.stck.me/profile) and a directory listing can be found at [Brownbook](https://www.brownbook.net/business/55131035/pvc-fencing-sydney).
 
 ## Summary
 
 Choosing between a swing gate and a sliding gate comes down to your site dimensions, driveway layout, and practical usage needs. Both options deliver full privacy in PVC and can be automated. Taking accurate measurements of the opening and the available clearance space before ordering avoids the most common installation problems.
+
