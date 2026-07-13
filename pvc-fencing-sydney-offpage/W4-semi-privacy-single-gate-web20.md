@@ -1,4 +1,4 @@
-﻿# What to Avoid When Selecting a Semi Privacy PVC Fence and Single Gate
+# What to Avoid When Selecting a Semi Privacy PVC Fence and Single Gate
 
 **Placement type:** Web 2.0
 **Primary keyword:** Semi Privacy PVC Single Gate → https://www.pvcfencingsydney.com.au/products/caroline-semi-privacy-single-gate
@@ -54,10 +54,9 @@ Ask the supplier to confirm the UV stability rating and wall thickness of the pr
 
 For semi privacy single gate options, see the [Semi Privacy PVC Single Gate](https://www.pvcfencingsydney.com.au/products/caroline-semi-privacy-single-gate) page. The matching fence panels are listed on the [Semi Privacy PVC Fence](https://www.pvcfencingsydney.com.au/products/caroline-semi-privacy-fences) page.
 
-The full product range is available at [PVC Fencing Sydney](https://www.pvcfencingsydney.com.au/). Contact details and the business location are available via [Google Maps](https://www.google.com/maps?cid=15732812723531130146).
+The full product range is available at [PVC Fencing Outlet Sydney](https://www.pvcfencingsydney.com.au/). Contact details and the business location are available via [Google Maps](https://www.google.com/maps?cid=15732812723531130146).
 
 
 ## Summary
 
 The most frequent mistakes in selecting a semi privacy PVC fence and gate involve profile mismatches, incorrect privacy level selection, underspecified hardware, and inadequate preparation for sloped ground or irregular post spacing. Addressing each of these points before ordering leads to a fence that functions correctly, looks consistent, and lasts without early maintenance issues.
-

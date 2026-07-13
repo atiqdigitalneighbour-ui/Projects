@@ -1,4 +1,4 @@
-﻿# Sliding vs Swing: Making the Right Full Privacy Gate Decision for Your Home
+# Sliding vs Swing: Making the Right Full Privacy Gate Decision for Your Home
 
 **Placement type:** Guest Post
 **Primary keyword:** Full Privacy PVC Sliding Gate → https://www.pvcfencingsydney.com.au/products/matilda-full-privacy-sliding-gates
@@ -65,7 +65,7 @@ Ask yourself these questions before choosing:
 
 If the driveway is flat, the opening is wide, and there is adequate fence on one side for stacking, consider a sliding gate. If the driveway is sloped, the opening is narrower, or stacking space is limited, a swing gate is usually the more practical option.
 
-For further information, the complete range is available at [quality vinyl fencing range](https://www.pvcfencingsydney.com.au/).
+For further information, the complete range is available at [Sydney Fencing Contractors](https://www.pvcfencingsydney.com.au/).
 
 ## Summary
 

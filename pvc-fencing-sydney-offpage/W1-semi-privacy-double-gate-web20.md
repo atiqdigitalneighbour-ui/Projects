@@ -1,4 +1,4 @@
-﻿# How to Choose a Double Gate for a Semi-Privacy Property
+# How to Choose a Double Gate for a Semi-Privacy Property
 
 **Placement type:** Web 2.0
 **Primary keyword:** Semi Privacy PVC Double Gate → https://www.pvcfencingsydney.com.au/products/caroline-semi-privacy-double-gates
@@ -62,7 +62,7 @@ The gap between the two gate panels when closed should be minimal to maintain th
 
 When selecting a gate supplier, look for one that can confirm product dimensions in advance, provide hardware specifications, and offer guidance on installation requirements. The supplier should also be able to match the gate to your existing fence profile if applicable.
 
-PVC Fencing Sydney supplies a range of PVC gates and fencing products across the greater Sydney area. You can view the [durable vinyl fencing solutions](https://www.pvcfencingsydney.com.au/) or find contact details and directions on [Google Maps](https://www.google.com/maps?cid=15732812723531130146).
+PVC Fencing Sydney supplies a range of PVC gates and fencing products across the greater Sydney area. You can view the [Vinyl Fence Warehouse Sydney](https://www.pvcfencingsydney.com.au/) or find contact details and directions on [Google Maps](https://www.google.com/maps?cid=15732812723531130146).
 
 
 ## Summary

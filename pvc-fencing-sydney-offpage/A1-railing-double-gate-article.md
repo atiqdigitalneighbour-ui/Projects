@@ -1,4 +1,4 @@
-﻿# Key Points to Consider Before Buying a PVC Railing Double Gate
+# Key Points to Consider Before Buying a PVC Railing Double Gate
 
 **Placement type:** Article Submission
 **Primary keyword:** PVC Railing Double Gate → https://www.pvcfencingsydney.com.au/products/julia-railing-double-gates

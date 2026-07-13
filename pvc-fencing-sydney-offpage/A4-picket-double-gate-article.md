@@ -1,4 +1,4 @@
-﻿# Picket Style PVC Double Gates: Points to Consider Before You Buy
+# Picket Style PVC Double Gates: Points to Consider Before You Buy
 
 **Placement type:** Article Submission
 **Primary keyword:** Picket Style PVC Double Gate → https://www.pvcfencingsydney.com.au/products/victoria-picket-double-gates
@@ -54,7 +54,7 @@ Confirm the post dimensions recommended by the gate supplier for the gate size y
 
 PVC picket gates require no painting and are resistant to moisture and UV degradation when manufactured with UV stabilisation. Cleaning with water maintains the surface appearance. Hardware components should be lubricated annually and inspected for loosening fixings.
 
-For further information on the full PVC fence and gate range, visit [durable PVC fencing collection](https://www.pvcfencingsydney.com.au/).
+For further information on the full PVC fence and gate range, visit [Vinyl Fencing Contractors Sydney](https://www.pvcfencingsydney.com.au/).
 
 ## Summary
 

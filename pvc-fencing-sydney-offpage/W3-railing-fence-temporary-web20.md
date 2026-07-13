@@ -1,4 +1,4 @@
-﻿# A Planning Checklist for Railing Fences and Temporary PVC Fencing Projects
+# A Planning Checklist for Railing Fences and Temporary PVC Fencing Projects
 
 **Placement type:** Web 2.0
 **Primary keyword:** PVC Railing Fence → https://www.pvcfencingsydney.com.au/products/julia-railing-fence
@@ -60,7 +60,7 @@ For a permanent railing fence, no removal plan is needed, but consider future ac
 
 For railing fence panels in Sydney, see the [PVC Railing Fence](https://www.pvcfencingsydney.com.au/products/julia-railing-fence) product page. For event and site temporary fencing, see the [PVC Temporary Fences](https://www.pvcfencingsydney.com.au/products/event-temporary-fences) section.
 
-The full PVC fencing and gate range is available at [our range of PVC fences](https://www.pvcfencingsydney.com.au/). For directions and contact details, visit the listing on [Google Maps](https://www.google.com/maps?cid=15732812723531130146).
+The full PVC fencing and gate range is available at [PVC Fencing Providers Sydney](https://www.pvcfencingsydney.com.au/). For directions and contact details, visit the listing on [Google Maps](https://www.google.com/maps?cid=15732812723531130146).
 
 
 ## Summary Checklist

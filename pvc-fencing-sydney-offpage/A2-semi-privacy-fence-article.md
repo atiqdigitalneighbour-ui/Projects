@@ -1,4 +1,4 @@
-﻿# Understanding Semi Privacy PVC Fencing: A Guide for Property Owners
+# Understanding Semi Privacy PVC Fencing: A Guide for Property Owners
 
 **Placement type:** Article Submission
 **Primary keyword:** Semi Privacy PVC Fence → https://www.pvcfencingsydney.com.au/products/caroline-semi-privacy-fences
