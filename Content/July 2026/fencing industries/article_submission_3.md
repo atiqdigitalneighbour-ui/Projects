@@ -1,78 +1,88 @@
-# Industrial and Commercial Fencing: Key Differences and What to Specify
+# What Makes a Good School Fence: A Guide for Property and Facilities Managers
 
-Industrial and commercial properties have fencing requirements that differ considerably from residential applications. The scale is larger, the structural demands are greater, the compliance obligations may be more extensive, and the consequences of specification errors are more significant.
+Managing fencing at an educational facility involves balancing several competing priorities. Safety, access control, visibility, durability, and cost all need to be considered. Add to this the specific requirements of working in an environment occupied by children, and it becomes clear that school fencing is a specialist category.
 
-This article outlines the key differences between industrial and commercial fencing requirements and provides guidance on what to consider when specifying fencing for these environments.
-
----
-
-## Commercial Fencing
-
-Commercial fencing typically serves premises such as office parks, retail properties, service businesses, hospitality venues, and mixed-use developments. The key priorities are usually:
-
-- presenting a professional and welcoming appearance
-- controlling access to carparks, service yards, and building perimeters
-- providing a degree of security without creating an unwelcoming environment
-- meeting local authority requirements where applicable
-
-Products commonly used in commercial settings include welded mesh panels, palisade fencing, automated vehicle gates, and pedestrian access systems. Colour, finish, and design are more important considerations in commercial fencing than in industrial settings, where function and durability typically take priority.
+This article provides guidance for property and facilities managers responsible for fencing decisions at schools and other educational facilities.
 
 ---
 
-## Industrial Fencing
+## The Dual Function of School Fencing
 
-Industrial fencing serves warehouses, manufacturing plants, transport depots, logistics facilities, and similar properties. The priorities here are different:
+The most important thing to understand about school fencing is that it must perform two functions simultaneously, and these functions are in tension with each other.
 
-- robust perimeter control to prevent unauthorised access
-- the ability to handle significant traffic volumes at entry points
-- durability under harsh operating conditions including dust, chemicals, and heavy vehicle movement
-- integration with loading dock access, vehicle weighbridges, and logistics operations
+The first function is containment: preventing students, particularly younger students, from leaving the grounds unsupervised. The second function is access: allowing authorised staff, students, parents, contractors, and visitors to enter and exit efficiently.
 
-Heavy-duty chain link, welded mesh in security grades, and palisade fencing are commonly used in industrial applications. Gate specifications must accommodate the weight and frequency of use typical of industrial vehicle entry points.
-
-Internal fencing within an industrial building is also common. Internal fencing is used to separate work zones, secure high-value storage areas, create safe pedestrian routes through vehicle areas, and partition different operational functions within a large facility.
+Getting this balance right is the central design challenge of school fencing.
 
 ---
 
-## Internal Fencing for Industrial Premises
+## Age-Appropriate Design
 
-Internal fencing is a category that is frequently overlooked in the initial design of an industrial facility but that becomes increasingly important as operations scale. Common applications include:
+The fencing specification for an early childhood centre or primary school differs significantly from what is appropriate for a secondary school.
 
-- partitioning warehouse storage zones
-- creating secure cages for high-value inventory
-- separating pedestrian walkways from forklift routes
-- defining controlled access areas within a facility
+At primary and early childhood level, gate latches should be positioned above the reach of young children, typically above 1.5 metres. Self-closing gate mechanisms are essential. Gaps in the fence or gate should not allow children to pass through or become trapped.
 
-Internal fencing products differ from external products. They do not need to meet weather or corrosion resistance standards but must be structurally robust, easy to modify as operations change, and compatible with the floor fixing methods available.
-
-For commercial and industrial fencing applications, including internal partitioning, visit the [industrial sector page at Fencing Industries](https://www.fencingindustries.co.nz/sectors/industrial). For the full range of services from experienced [fence contractors](https://www.fencingindustries.co.nz) across Canterbury, visit the Fencing Industries website.
+At secondary school level, containment in the strict sense is less critical, but access control remains important. Electronic access control, intercom entry, and monitored pedestrian gates are increasingly common at secondary schools.
 
 ---
 
-## Compliance Considerations
+## Access Points and Gate Layout
 
-Industrial fencing must take account of health and safety obligations. Where fencing segregates pedestrian routes from vehicle traffic, the design must comply with requirements relating to clearances, visibility, and the structural integrity of barriers.
+School sites typically require multiple types of access:
 
-Where security fencing is required to meet specific standards, such as on sites holding regulated goods or on infrastructure sites, the specification must reference and meet those standards. Working with a contractor who is familiar with the compliance context of your industry is important.
+**Primary pedestrian entry.** The main gate through which students and parents enter. This gate typically has the highest security and access control requirements.
+
+**Secondary pedestrian entries.** Side or rear gates for students using adjacent streets or public transport stops. These gates need to be controllable during school hours.
+
+**Vehicle access.** Entry points for staff vehicles, contractor vehicles, and delivery trucks. These are separate from pedestrian entries in a well-designed layout.
+
+**Emergency access.** Additional gates may be needed to meet emergency egress requirements. These may be locked during normal operations but must be openable from the inside without a key.
 
 ---
 
-## Getting the Specification Right
+## Perimeter Fence Specification
 
-A commercial or industrial fencing project that begins with a clear specification is far more likely to produce a satisfactory outcome than one that relies on the contractor to make all the key decisions. Before approaching contractors, it is worth establishing:
+A typical school perimeter fence must:
 
-- the perimeter to be fenced and the gate locations required
-- the primary function of the fence (security, access control, internal separation, aesthetics)
-- any compliance requirements applicable to the site
-- the expected traffic volumes at entry points
-- the maintenance budget available over the life of the asset
+- provide a clear physical boundary that is visible and understandable to young children
+- be free of climbing opportunities where possible
+- not have mesh openings that allow small children to pass through or become trapped
+- withstand ball impact in areas adjacent to courts or sports fields
+- not present sharp edges or protrusions at head height or below
 
-A clear brief leads to comparable quotes, reduces scope disputes, and sets expectations correctly for all parties.
+Welded mesh panels are commonly specified for school perimeters because they are rigid, maintain consistent appearance over time, and can be specified with small enough apertures to prevent children from climbing easily.
+
+For educational fencing applications and advice on specifying the right system, the [school fencing](https://www.fencingindustries.co.nz/sectors/educational) solutions provided by experienced contractors are a good starting point.
+
+---
+
+## Planning the Installation
+
+School fencing projects require careful programme management:
+
+**Timing.** Work should be planned to occur during school holidays where possible. If installation must proceed during term time, clear separation between the construction zone and the school grounds must be maintained.
+
+**Communication.** Inform the school community about upcoming work to reduce disruption and prevent confusion about access changes.
+
+**Staging.** On larger projects, the existing fence must remain intact until the new fence section is ready to replace it. Planning the installation sequence to avoid gaps in the perimeter is essential.
+
+---
+
+## Maintenance
+
+School fencing should be inspected at least annually. Focus areas include:
+
+- gate latches and self-closing mechanisms
+- post and panel condition in areas subject to ball impact
+- condition of fixings, particularly in exposed or high-wind areas
+- any damage caused by vehicles or equipment
+
+Prompt repair of damaged sections is important. A damaged fence section may provide an opportunity for students to exit unsupervised or may present a physical safety risk.
+
+Working with professional [fencing installers](https://www.fencingindustries.co.nz) who understand the educational environment ensures the installation meets the specific requirements of school settings and that ongoing support is available for maintenance and repairs.
 
 ---
 
 ## Conclusion
 
-Industrial and commercial fencing differ in purpose, product specification, and compliance context. Understanding these differences before specifying a project ensures the right product is selected, the right contractor is engaged, and the installation meets the actual needs of the property and its operations.
-
-Work with a contractor who has demonstrable experience in your specific application type and can provide clear, detailed advice on product selection and installation methodology.
+School fencing is a specialist area that requires careful consideration of age-appropriate design, access control, perimeter integrity, and installation timing. Property and facilities managers who invest time in proper specification and contractor selection will achieve a better outcome than those who treat it as a routine procurement decision.

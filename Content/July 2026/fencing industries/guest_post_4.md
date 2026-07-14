@@ -1,8 +1,8 @@
-# Timber Post and Rail Fencing: A Practical Overview for Rural and Semi-Rural Properties
+# Timber Post and Rail Fencing: A Detailed Guide for Rural and Lifestyle Properties in New Zealand
 
 Timber post and rail fencing has been used across rural and semi-rural New Zealand for generations. It remains a practical, durable, and visually appropriate choice for many applications, from large farm boundaries to lifestyle block perimeters and rural road frontages.
 
-This article provides a practical overview of timber post and rail fencing, covering materials, applications, installation considerations, and maintenance.
+This guide provides a detailed overview of timber post and rail fencing, covering materials, applications, installation considerations, and long-term maintenance for New Zealand conditions.
 
 ---
 
@@ -20,9 +20,9 @@ The style is inherently open, allowing visibility through the fence while creati
 
 Posts are the structural foundation of the fence. In a timber post and rail system, the post must be capable of withstanding the lateral force applied by the rails and any livestock pressure that may occur.
 
-Treated pine is the most common post material in New Zealand. Ground-contact treatment ratings (H4 or H5 in the New Zealand context) are required for posts that are embedded in the ground. H4 is suitable for most rural applications. H5 is used in high-decay-risk environments such as areas with high soil moisture or contact with fresh water.
+Treated pine is the most common post material in New Zealand. Ground-contact treatment ratings are required for posts that are embedded in the ground. H4 is suitable for most rural applications. H5 is used in high-decay-risk environments such as areas with high soil moisture or contact with fresh water.
 
-Hardwood posts, including macrocarpa and other native timbers, are used where a premium aesthetic is required and where sourcing is practical. Hardwood posts typically offer excellent natural decay resistance but require different fixing techniques to softwood.
+Hardwood posts, including macrocarpa and other native timbers, are used where a premium aesthetic is required. Hardwood posts typically offer excellent natural decay resistance but require different fixing techniques to softwood.
 
 ### Rails
 
@@ -34,7 +34,7 @@ Rails are typically fixed using galvanised nails, coach bolts, or rail clips dep
 
 Timber post and rail fencing may be left untreated (relying on the preservative treatment), painted, or stained. Painted and stained finishes can extend the life of untreated surfaces and improve the appearance over time.
 
-In high-visibility areas such as road frontages, lifestyle developments, or heritage properties, a painted or stained finish is common. In purely functional farm settings, untreated treated timber is the norm.
+In high-visibility areas such as road frontages and lifestyle developments, a painted or stained finish is common. In purely functional farm settings, untreated treated timber is the norm.
 
 ---
 
@@ -67,11 +67,15 @@ Posts must be set to an adequate depth to provide the stability required. A gene
 
 Rails should be fixed to prevent lateral displacement and to distribute loads across the post evenly. Coach bolts provide a secure, visible fixing. Rail clips are faster to install and provide a consistent connection but may not be appropriate in high-pressure livestock environments.
 
+### Terrain and Gradient
+
+Rural properties often have undulating terrain. Timber post and rail fencing accommodates gradient changes more naturally than rigid panel systems, with rails able to follow the contour of the land. However, significant grade changes may require stepped sections or additional intermediate posts to maintain structural integrity.
+
 ### Gating
 
-Gates in timber post and rail fences are typically hung on heavy-duty galvanised hinges bolted through the post. In farm settings, farm gates are commonly used. In lifestyle or residential settings, purpose-built timber gates may be specified.
+Gates in timber post and rail fences are typically hung on heavy-duty galvanised hinges bolted through the post. In farm settings, standard farm gates are commonly used. In lifestyle or residential settings, purpose-built timber gates may be specified.
 
-For timber post and rail fencing options, visit the [timber post and rail page at Fencing Industries](https://www.fencingindustries.co.nz/products-services/timber-post-rail). For the full range of services from trusted [fencing contractors](https://www.fencingindustries.co.nz), including rural, residential, and commercial applications, visit the Fencing Industries website.
+For [timber post rail fencing](https://www.fencingindustries.co.nz/products-services/timber-post-rail) options suited to rural and lifestyle applications, working with a contractor experienced in this product category ensures the specification matches the intended use and site conditions.
 
 ---
 
@@ -91,7 +95,18 @@ A fence that is inspected annually and maintained promptly when issues are ident
 
 ---
 
-## Summary
+## Selecting Your Contractor
+
+Not every fencing contractor has experience with timber post and rail systems. When evaluating [fence contractors Canterbury](https://www.fencingindustries.co.nz) providers, consider:
+
+- their experience with rural and lifestyle fencing projects
+- their knowledge of timber treatment standards and suitable products
+- examples of comparable completed work
+- their approach to site assessment and specification
+
+---
+
+## Conclusion
 
 Timber post and rail fencing remains a relevant and practical choice for a wide range of rural and lifestyle applications in New Zealand. Selecting the appropriate timber treatment, post spacing, and rail fixing method for the specific application ensures the fence will perform reliably and look good for many years.
 

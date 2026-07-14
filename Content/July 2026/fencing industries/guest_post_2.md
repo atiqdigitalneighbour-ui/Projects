@@ -1,12 +1,12 @@
-# Automatic and Sliding Gates: What Commercial Property Owners Need to Know
+# Automatic and Sliding Gates: A Decision Framework for Property Managers
 
 The gate at the entrance to a commercial or industrial property does more than open and close. It controls who enters and exits, communicates the professionalism of the business, and forms a critical element of the site's physical security strategy. Getting the specification and installation right from the start avoids operational disruptions and unnecessary costs over the life of the asset.
 
-This article is intended for commercial property owners, facility managers, and project managers who are evaluating gate options for a new development or an upgrade of an existing system.
+This article is intended for property managers, facility operators, and project managers who are evaluating gate options for a new development or an upgrade of an existing system.
 
 ---
 
-## The Role of an Automatic Gate in a Commercial Security Strategy
+## The Role of a Gate in a Commercial Security Strategy
 
 Physical security for a commercial or industrial site typically involves several layers. The perimeter fence defines the boundary and provides the first passive barrier. The gate is the controlled point at which that barrier can be opened and closed.
 
@@ -41,11 +41,13 @@ Swing gates are more vulnerable to wind loading than sliding gates. In exposed l
 
 ---
 
-## Custom Fabricated Gates
+## Custom Fabricated Gate Solutions
 
 Most commercial and industrial gate installations require some degree of custom fabrication. Standard gate kits are designed for typical residential or light commercial openings. Commercial and industrial sites often have requirements that exceed these standard dimensions.
 
 Custom fabrication allows the gate to be built to precise dimensions, finished in the required colour or material, and integrated with specific safety and access control hardware. Infill designs, frame profiles, and surface treatments can be specified to match the aesthetic of the surrounding fencing and building.
+
+For [automatic gates Canterbury](https://www.fencingindustries.co.nz/products-services/gates) projects, including sliding gates and custom fabricated designs, working with a specialist contractor ensures the specification meets the demands of the site.
 
 ---
 
@@ -60,23 +62,19 @@ Selecting the correct motor for the gate is a critical part of the specification
 
 An undersized motor on a heavy gate with high cycle rates will fail prematurely. Conversely, an oversized motor on a light gate may present safety risks if the stopping force and auto-reverse sensitivity are not correctly calibrated.
 
-Motor manufacturers provide guidance on appropriate selection. A reputable contractor will follow this guidance and document the motor selection rationale as part of the project record.
-
 ---
 
 ## Safety Requirements
 
-Automatic gate installations must incorporate safety devices to prevent injury to pedestrians and vehicle occupants. Key safety requirements include:
+Automatic gate installations must incorporate safety devices to prevent injury. Key safety requirements include:
 
 **Obstacle detection.** Sensors on the leading and trailing edges of the gate detect obstruction and stop or reverse the gate movement. Photo-electric cells are commonly used in addition to contact-based safety edges.
 
-**Manual release.** A mechanical manual release allows the gate to be opened in the event of a power failure or motor fault. The release must be accessible to authorised personnel and not to the general public.
+**Manual release.** A mechanical manual release allows the gate to be opened in the event of a power failure or motor fault. The release must be accessible to authorised personnel.
 
 **Audible or visual warning.** In some environments, a warning alarm or flashing light that activates as the gate begins to move is required to alert pedestrians.
 
-**Safe pedestrian access.** If pedestrian access and vehicle access share the same gate opening, a separate pedestrian gate with appropriate segregation should be incorporated into the design. Allowing pedestrians to use the vehicle gate opening during automated operation is unsafe.
-
-For automatic and sliding gate options and custom fabrication, visit [Fencing Industries gates page](https://www.fencingindustries.co.nz/products-services/gates). For the full range of services from an experienced [fencing contractor](https://www.fencingindustries.co.nz), visit the Fencing Industries website.
+**Safe pedestrian access.** If pedestrian access and vehicle access share the same gate opening, a separate pedestrian gate with appropriate segregation should be incorporated into the design.
 
 ---
 
@@ -90,9 +88,8 @@ Modern automatic gate systems can be integrated with a wide range of access cont
 - intercom systems with visual monitoring
 - vehicle loop detectors for automatic exit
 - number plate recognition systems
-- remote monitoring and control via smartphone applications
 
-The level of access control sophistication appropriate for a site depends on the security requirements, the volume of authorised users, and the budget available. A system that is too complex for the operational environment creates confusion and is often bypassed or disabled by users.
+The level of sophistication appropriate for a site depends on the security requirements, the volume of authorised users, and the budget available.
 
 ---
 
@@ -106,7 +103,7 @@ Automatic gate systems should be serviced at least annually by a qualified techn
 - testing of all safety devices including auto-reverse function
 - review of access control credentials and removal of outdated users
 
-Maintaining a service log provides evidence of compliance and is useful in the event of an insurance claim or compliance review.
+Working with experienced [fencing contractors](https://www.fencingindustries.co.nz) who offer ongoing service agreements ensures the system remains reliable and safe over its full service life.
 
 ---
 
@@ -114,4 +111,4 @@ Maintaining a service log provides evidence of compliance and is useful in the e
 
 Automatic gates are a significant investment in a commercial or industrial property. Selecting the correct gate type, specifying an appropriate motor, incorporating the required safety devices, and integrating effective access control are all essential steps.
 
-Working with an experienced contractor who understands commercial gate installation, custom fabrication, and safety compliance will produce a system that is reliable, safe, and fit for purpose over many years of operation.
+Work with a contractor who understands commercial gate installation, custom fabrication, and safety compliance to produce a system that is reliable, safe, and fit for purpose over many years of operation.

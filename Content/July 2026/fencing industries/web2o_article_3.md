@@ -1,8 +1,8 @@
-# A Practical Guide to Fencing for Schools and Educational Facilities
+# A Practical Guide to Fencing and Safety Infrastructure for Schools
 
-Schools and educational facilities have specific fencing requirements that differ from those of residential properties, commercial premises, and industrial sites. Child safety, access control, aesthetic considerations, and regulatory compliance all shape what an appropriate school fence looks like and how it should be installed.
+Schools and educational facilities have specific fencing requirements that differ from residential, commercial, and industrial properties. Child safety, access control, aesthetic considerations, and regulatory compliance all shape what an appropriate school fence looks like and how it should be installed.
 
-This guide explains the key considerations for school and educational facility fencing, along with practical advice for selecting the right system.
+This guide explains the key considerations for school and educational facility fencing, along with practical advice for selecting the right system and supporting safety infrastructure.
 
 ---
 
@@ -24,6 +24,8 @@ School entries must be controlled points. Pedestrian gates at primary schools ar
 
 Access control systems ranging from intercoms with visual monitoring to electronic entry systems are increasingly common at school gates, particularly in urban environments.
 
+For an overview of fencing designed specifically for educational environments, see the [school fencing](https://www.fencingindustries.co.nz/sectors/educational) solutions available from specialist contractors.
+
 ### Visibility
 
 Schools need to be visible to staff from within the grounds and visible to the community from outside. A solid or opaque fence that blocks sight lines can create concealed zones where incidents occur out of view.
@@ -34,27 +36,17 @@ Open mesh fencing, palisade fencing, or transparent panel systems are commonly s
 
 School environments are demanding. Fencing along play areas and sports zones is subject to constant ball impact, climbing, and general wear. Products specified for school settings must be robust enough to withstand this level of use without frequent structural repair.
 
-This is particularly relevant for fencing adjacent to courts, fields, and break areas.
+---
 
-### Bollards and Pedestrian Safety
+## Bollards and Pedestrian Safety at Schools
 
 Many school frontages also require bollards or safety rails at entry and exit points to prevent vehicle incursions into pedestrian areas. This is especially important at schools with busy drop-off and pick-up activity at peak times.
 
-Bollards placed correctly at entry zones can prevent accidental or deliberate vehicle access into pedestrian zones, significantly improving safety for students and families.
+Bollards placed correctly at entry zones can prevent accidental or deliberate vehicle access into pedestrian zones, significantly improving safety for students and families. Fixed bollards provide permanent protection, while removable bollards allow access to be adjusted for events or maintenance.
 
-For information on bollards and safety rail options, see [bollards and safety rails at Fencing Industries](https://www.fencingindustries.co.nz/products-services/bollards-safety-rails). For an overview of educational fencing applications, visit the [educational sector page](https://www.fencingindustries.co.nz/sectors/educational).
+Safety rails alongside pedestrian walkways adjacent to car parks provide additional protection. They create a physical barrier between vehicle traffic and foot traffic, which is particularly important where young children are present.
 
----
-
-## Timber Post and Rail as a Supporting Option
-
-In some school environments, particularly those with large grounds, rural settings, or where a softer aesthetic is appropriate, timber post and rail fencing is used to define boundaries in areas that are lower risk.
-
-Timber fencing is not typically used as a primary security perimeter, but it can be appropriate for:
-
-- paddock and ground boundaries at rural schools
-- separating different activity zones within larger campuses
-- decorative frontage elements where a hardwood aesthetic is preferred
+For information on [bollards safety rails](https://www.fencingindustries.co.nz/products-services/bollards-safety-rails) options suitable for educational settings, specialist contractors can advise on product selection and placement.
 
 ---
 
@@ -68,9 +60,18 @@ A school fencing project should begin with a site audit that considers:
 4. Any relevant council requirements or building consents
 5. The sequence of installation to avoid disrupting school operations
 
-Installation timing is particularly important for schools. Most work is done during school holidays to avoid disruption and to ensure there is no safety risk to students during the construction period.
+Installation timing is particularly important for schools. Most work is scheduled during school holidays to avoid disruption and to ensure there is no safety risk to students during the construction period.
 
-Working with [fencing installers](https://www.fencingindustries.co.nz) who understand the specific requirements of educational environments will produce a better outcome than working with a general contractor who lacks that background.
+---
+
+## Choosing the Right Contractor
+
+Working with [fencing contractors](https://www.fencingindustries.co.nz) who understand the specific requirements of educational environments will produce a better outcome than working with a general contractor who lacks that background. Schools require contractors who can:
+
+- work within school safety protocols
+- coordinate installation timing around the school calendar
+- specify products that are age-appropriate and comply with relevant standards
+- provide clear documentation of the completed installation
 
 ---
 
@@ -84,3 +85,4 @@ Whether you are upgrading an existing perimeter fence, adding access control to 
 
 - [Google Business Profile: Fencing Industries](https://www.google.com/maps?cid=7678028220817432282)
 - [Fencing Industries on Yellow NZ](https://yellow.co.nz/prebbleton/bpp/fencing-industries-ltd-579365460)
+- [Fencing Industries on Boycat](https://www.boycat.co/fencingindustries)
