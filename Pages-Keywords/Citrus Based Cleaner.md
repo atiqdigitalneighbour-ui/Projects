@@ -36,6 +36,7 @@ This document serves as the master data source for the Citrus Based Cleaner proj
 | :--- | :--- | :--- |
 | 1 | `https://www.citrusbasedcleaner.co.nz/` | Eco Friendly Cleaning Products |
 | 2 | `https://www.citrusbasedcleaner.co.nz/product/large-doodle-bug/` | Doodlebug Cleaning Pad |
+| 3 | `https://www.citrusbasedcleaner.co.nz/product/new-citrus-blast-concentrate/` | Citrus Based Sanitiser |
 
 ---
 
@@ -44,7 +45,8 @@ This document serves as the master data source for the Citrus Based Cleaner proj
 | # | Target URL | Primary Keyword |
 | :--- | :--- | :--- |
 | 1 | `https://www.citrusbasedcleaner.co.nz/product-category/accessories-replacement/` | Eco Friendly Cleaning Products |
-| 2 | `https://www.citrusbasedcleaner.co.nz/` | NZ Made Cleaning Products |
+| 2 | `https://www.citrusbasedcleaner.co.nz/product/replacement-triggers-for-spray-bottle/` | Trigger for Spray Bottle |
+| 3 | `https://www.citrusbasedcleaner.co.nz/` | NZ Made Cleaning Products |
 
 ---
 
