@@ -54,8 +54,6 @@ This document serves as the master data source for the Silva Travel project. It 
 | 3 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-adelaide` | Flights from Auckland to Adelaide |
 | 4 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-india` | cheap flights from Auckland to India |
 | 5 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-fiji` | cheapest flights from Auckland to Fiji |
-| 6 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-colombo` | Auckland to Colombo flights |
-| 7 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-hambantota` | Flights from Auckland to Hambantota |
 
 ---
 
@@ -68,8 +66,6 @@ This document serves as the master data source for the Silva Travel project. It 
 | 3 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-dubai` | Flights from Auckland to Dubai |
 | 4 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-chennai` | flight tickets from Auckland to Chennai |
 | 5 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-delhi` | flights from Auckland to Delhi |
-| 6 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-hyderabad` | Flights from Auckland to Hyderabad |
-| 7 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-mumbai` | Flights from Auckland to Mumbai |
 
 ---
 
