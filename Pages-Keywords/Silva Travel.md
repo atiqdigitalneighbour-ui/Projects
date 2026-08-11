@@ -13,7 +13,7 @@ This document serves as the master data source for the Silva Travel project. It 
 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-gold-coast` | Flights from Auckland to Gold Coast |
 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-adelaide` | Flights from Auckland to Adelaide |
 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-abu-dhabi` | Flights from Auckland to Abu Dhabi |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-thiruvananthapuram` | Flights from Auckland to Thiruvananthapuram |
+| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-thiruvananthalam` | Flights from Auckland to Thiruvananthalam |
 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-australia` | Flights from Auckland to Australia |
 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-dubai` | Flights from Auckland to Dubai |
 
@@ -30,6 +30,10 @@ This document serves as the master data source for the Silva Travel project. It 
 | 3 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-gold-coast` | Flights from Auckland to Gold Coast |
 | 4 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-adelaide` | Flights from Auckland to Adelaide |
 | 5 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-abu-dhabi` | Flights from Auckland to Abu Dhabi |
+| 6 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-hyderabad` | Flights from Auckland to Hyderabad (keyword) |
+| 7 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-mumbai` | Flights from Auckland to Mumbai (keyword) |
+| 8 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-colombo` | Auckland to Colombo flights (keyword) |
+| 9 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-hambantota` | Flights from Auckland to Hambantota (keyword) |
 
 ---
 
@@ -38,8 +42,10 @@ This document serves as the master data source for the Silva Travel project. It 
 | # | Target URL | Notes |
 | :--- | :--- | :--- |
 | 1 | `https://silvatravel.co.nz/` | Travel Agency Auckland |
-| 2 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-thiruvananthapuram` | Flights from Auckland to Thiruvananthapuram |
+| 2 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-thiruvananthalam` | Flights from Auckland to Thiruvananthalam |
 | 3 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-adelaide` | Flights from Auckland to Adelaide |
+| 4 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-india` | cheap flights from Auckland to India |
+| 5 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-fiji` | cheapest flights from Auckland to Fiji |
 
 ---
 
@@ -50,6 +56,8 @@ This document serves as the master data source for the Silva Travel project. It 
 | 1 | `https://silvatravel.co.nz/` | Best Travel Agency In Auckland |
 | 2 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-australia` | Flights from Auckland to Australia |
 | 3 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-dubai` | Flights from Auckland to Dubai |
+| 4 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-chennai` | Flights from Auckland to Chennai |
+| 5 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-delhi` | Flights from Auckland to Delhi (keyword) |
 
 ---
 
@@ -96,8 +104,8 @@ This document serves as the master data source for the Silva Travel project. It 
 | Big Biz Stuff | `https://www.bigbizstuff.com/travel-recreation-and-leisure/silva-travel-and-tours` |
 | Biz 411 | `https://www.biz411.org/travel-recreation-and-leisure/silva-travel-and-tours` |
 | Biz Bang Boom | `https://www.bizbangboom.com/travel-recreation-and-leisure/silva-travel-and-tours` |
-| Biz Build Boom | `https://www.bizbuildboom.com/travel-recreation-and-leisure/silva-travel-and-tours` |
-| Bizforge USA | `https://bizforgeusa.com/travel-recreation-and-leisure/silva-travel-and-tours` |
+| Biz Build Boom | `https://www.bizbuildboom.com/travel-recreation-and-least/silva-travel-and-tours` |
+| Bizforge USA | `https://bizforgeusa.com/travel-recreation-and-tours` |
 | Sayellow | `https://www.sayellow.com/view/new-zealand/silva-travels-and-tours-ltd-in-auckland` |
 | Muamat | `https://www.muamat.com/classifieds/759/posts/1_Services/13_Other/45876307_Silva_Travels_and_Tours_Ltd.html` |
 | Yellow NZ | `https://yellow.co.nz/profile/1320283333/reviews` |
