@@ -28,10 +28,10 @@ Preparing for international travel involves securing electronic visas, verifying
 
 Organizing local currency, international credit cards, and mobile connectivity beforehand facilitates smooth transactions upon arrival. Planning inner-city transport options helps navigate the bustling urban landscape easily.
 
-Exploring digital directories and travel community pages can provide updated destination insights. You can visit platforms such as [Buyer Seller](https://buyerseller.xyz/user/silvatravels/) to explore digital travel profiles and community contributions.
+Exploring digital directories and travel community pages can provide updated destination insights and practical advice shared by experienced travellers.
 
 ## Finalizing Your Flight Booking
 
 Confirming your flight reservation, passenger details, and luggage specifications guarantees a stress-free check-in procedure at the airport. Reviewing transit lounge access options offers extra comfort during long layovers.
 
-If you need in-person booking support or travel advice, you can find local travel consultants using [Google Maps](https://www.google.com/maps?cid=3494269107193263420). A brief consultation ensures that your journey to Chennai is perfectly organized.
+If you need in-person booking support or travel advice, a brief consultation with experienced travel consultants ensures that your journey to Chennai is perfectly organized.
