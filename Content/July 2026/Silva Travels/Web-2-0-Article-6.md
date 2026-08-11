@@ -34,4 +34,4 @@ Gathering insights from international directories and digital communities can en
 
 Confirming all flight details, hotel bookings, and travel insurance coverage ensures complete peace of mind before you travel. Reviewing baggage weight limits for each airline on your route helps avoid unexpected airport charges.
 
-If you need in-person assistance or wish to speak with an experienced travel advisor, you can locate nearby services using [Google Maps](https://www.google.com/maps?cid=3494269107193263420). A brief consultation before departure ensures that every aspect of your holiday is perfectly prepared.
+If you need in-person assistance or wish to speak with experienced [travel experts Auckland](https://www.google.com/maps?cid=3494269107193263420), a brief consultation before departure ensures that every aspect of your holiday is perfectly prepared.
