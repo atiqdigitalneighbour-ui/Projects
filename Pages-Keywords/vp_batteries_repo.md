@@ -11,14 +11,15 @@ This document serves as the master data source for the VP Batteries project. It 
 | `https://vpbatteries.co.nz/` | car batteries christchurch, car battery christchurch, automotive accessories christchurch, car battery replacement christchurch |
 | `https://vpbatteries.co.nz/standard-automotive/` | non diesel vehicles batteries christchurch, Standard automotive batteries christchurch, Standard automotive batteries |
 | `https://vpbatteries.co.nz/small-diesel/` | small car battery, small diesel batteries christchurch, diesel car battery christchurch |
-| `https://vpbatteries.co.nz/product-category/american-automotive/` | american automotive batteries christchurch, american automotive batteries |
-| `https://vpbatteries.co.nz/european/` | european batteries, european vehicles batteries christchurch, european batteries christchurch |
-| `https://vpbatteries.co.nz/product-category/marine/` | marine battery, marine batteries christchurch, marine batteries |
-| `https://vpbatteries.co.nz/product-category/heavy-duty-truck-commercial/` | truck batteries, commercial batteries christchurch, commercial vehicle batteries christchurch |
-| `https://vpbatteries.co.nz/product-category/stop-start-agm-efb/` | agm batteries christchurch, agm & efb automotive batteries christchurch |
+| `https://vpbatteries.co.nz/product-category/american-automotive/` | american automotive batteries christchurch, american automotive batteries nz |
+| `https://vpbatteries.co.nz/european/` | european batteries, european vehicles batteries christchurch, european batteries christchurch nz |
+| `https://vpbatteries.co.nz/product-category/marine/` | marine battery, marine batteries christchurch, marine batteries nz |
+| `https://vpbatteries.co.nz/product-category/heavy-duty-truck-commercial/` | truck batteries nz, commercial batteries christchurch, commercial vehicle batteries christchurch |
+| `https://vpbatteries.co.nz/stop-start-agm-and-efb/` | agm batteries christchurch, agm batteries |
 | `https://vpbatteries.co.nz/product-category/motorcycle/` | motorcycle batteries nz, motorcycle battery, motorbike battery |
 | `https://vpbatteries.co.nz/product-category/deep-cycle/` | deep cycle batteries, deep cycle batteries christchurch, deep cycle batteries christchurch nz |
-| `https://vpbatteries.co.nz/mobile-battery-services/` | mobile battery service christchurch, car battery installation, mobile car battery replacement |
+| `https://vpbatteries.co.nz/mobile-battery-services/` | mobile battery service christchurch, car battery installation nz, mobile car battery replacement nz |
+| `https://vpbatteries.co.nz/product-category/accessories/` | vehicle accessories nz, vehicle accessories |
 
 ---
 
