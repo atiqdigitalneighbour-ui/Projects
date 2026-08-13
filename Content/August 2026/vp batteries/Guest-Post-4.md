@@ -28,11 +28,9 @@ The diagnostic equipment is equally important. Before installing a new battery, 
 
 ## Battery Registration for Modern Vehicles
 
-As discussed in relation to European vehicles, many modern cars require the new battery to be registered with the vehicle's management system after installation. This step is not limited to European brands. Many Japanese and Korean vehicles with advanced energy management also require registration.
+Many modern cars require the new battery to be registered with the vehicle's management system after installation. This step is not limited to European brands. Many Japanese and Korean vehicles with advanced energy management also require registration.
 
-A mobile technician equipped with a professional diagnostic interface can complete this registration at the kerbside. This ensures the vehicle's charging system operates correctly from the moment the technician leaves.
-
-Drivers who use a mobile service that lacks diagnostic capability may find their new battery is not registered correctly, resulting in incorrect charging and a shortened battery lifespan.
+A mobile technician equipped with a professional diagnostic interface can complete this registration at the kerbside. This ensures the vehicle's charging system operates correctly from the moment the technician leaves. Drivers who use a mobile service that lacks diagnostic capability may find their new battery is not registered correctly, resulting in incorrect charging and a shortened battery lifespan.
 
 ---
 
@@ -42,4 +40,4 @@ One of the most effective uses of a mobile battery service is proactive replacem
 
 Contacting a mobile service for a scheduled replacement at a convenient time and location prevents the far more disruptive experience of an unexpected failure. A technician can attend your home or workplace during a time that suits you and complete the installation with minimal interruption to your day.
 
-For professional mobile battery installation and access to a wide range of vehicle batteries, visit the [VP Batteries homepage](https://vpbatteries.co.nz/) to learn more about the services available across New Zealand.
+For professional mobile battery installation and access to a wide range of vehicle batteries across New Zealand, look up [motorcycle batteries nz](https://vpbatteries.co.nz/) for more information about the full range of battery products and services available from a local specialist.

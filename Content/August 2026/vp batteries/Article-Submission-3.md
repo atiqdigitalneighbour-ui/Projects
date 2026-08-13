@@ -20,11 +20,9 @@ For vehicles that are stored seasonally, caravans over winter, or classic cars t
 
 Many four-wheel drive owners, campervan operators, and work vehicle users install a secondary battery to power accessories independently of the vehicle's starting battery. This setup allows the accessories to draw power from the secondary battery without risking the starting battery's charge.
 
-A dual-battery isolator is the component that manages the relationship between the two batteries. It allows the alternator to charge both batteries when the engine is running but prevents the secondary battery from drawing power back from the primary when the engine is switched off.
+A dual-battery isolator manages the relationship between the two batteries. It allows the alternator to charge both batteries when the engine is running but prevents the secondary battery from drawing power back from the primary when the engine is switched off.
 
 Without an isolator, running accessories from the secondary battery will eventually drain the primary starting battery as well. This defeats the purpose of the dual-battery system and can leave the vehicle unable to start.
-
-Installing a quality isolator ensures the starting battery is protected at all times, regardless of how long accessories run from the secondary battery.
 
 ---
 
@@ -44,4 +42,4 @@ Digital battery monitors allow vehicle owners to track the state of charge and s
 
 For fleet operators, battery monitors installed across multiple vehicles provide data that supports proactive replacement scheduling. Rather than waiting for a battery to fail in service, maintenance teams can identify batteries approaching end-of-life and replace them during planned service stops.
 
-For access to a full range of vehicle accessories and battery products, visit the [VP Batteries homepage](https://vpbatteries.co.nz/) for product listings and professional advice.
+For access to a full range of vehicle accessories and battery products from a trusted New Zealand specialist, look up [best american automotive batteries nz](https://vpbatteries.co.nz/) for a wide selection of automotive power products and accessories available locally.

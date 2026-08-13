@@ -22,15 +22,13 @@ European manufacturers specify either AGM or EFB battery technology as original 
 
 AGM batteries are the most capable option. They are sealed, maintenance-free, and can withstand the high charge acceptance rates produced by modern alternator management systems. Vehicles fitted with full start-stop functionality and sophisticated energy recovery systems will almost always require AGM as the replacement specification.
 
-EFB batteries are designed for vehicles with lighter start-stop demands. They offer better cycle performance than flooded batteries but are not suitable as a substitute for AGM in vehicles that require it. Fitting an EFB where an AGM is specified will result in the same premature failure pattern seen with standard flooded batteries.
-
-For drivers in New Zealand sourcing a replacement, finding the correct [european batteries Christchurch nz](https://vpbatteries.co.nz/european/) from a specialist supplier ensures the technology matches the vehicle's original specification.
+EFB batteries are designed for vehicles with lighter start-stop demands. They offer better cycle performance than flooded batteries but are not suitable as a substitute for AGM in vehicles that require it. For drivers in New Zealand sourcing a replacement, finding the correct [european batteries Christchurch nz](https://vpbatteries.co.nz/european/) from a specialist supplier ensures the technology matches the vehicle's original specification.
 
 ---
 
 ## Battery Registration: The Step That Cannot Be Skipped
 
-One of the most consistently misunderstood aspects of European battery replacement is the registration requirement. When a new battery is fitted to a modern European vehicle, the vehicle's battery management system must be informed. This is done using a diagnostic interface connected to the car's OBD port.
+One of the most consistently misunderstood aspects of European battery replacement is the registration requirement. When a new battery is fitted to a modern European vehicle, the vehicle's battery management system must be informed using a diagnostic interface connected to the car's OBD port.
 
 The registration process resets the charging algorithm to suit a fresh battery. Without it, the management system continues to apply the profile for a battery that has partially aged, resulting in either undercharging or overcharging. Both outcomes reduce the new battery's effective lifespan.
 
@@ -44,4 +42,4 @@ European vehicles contain dozens of electronic control units that monitor and ma
 
 A professional technician uses a memory-keeper device during battery replacement to maintain a stable voltage supply to the vehicle's electronics throughout the process. This prevents the loss of personalised settings such as window positions, seat memory, and radio presets, and avoids the need to reprogram safety systems.
 
-For a comprehensive range of battery solutions suited to European vehicles and other imported cars, visit the [VP Batteries homepage](https://vpbatteries.co.nz/). Professional advice, correct product selection, and proper installation protect both your vehicle and your investment.
+For a comprehensive range of battery solutions suited to European vehicles and all other imported cars, search for [car battery christchurch](https://vpbatteries.co.nz/) to find a local specialist with the correct knowledge and equipment. Professional advice, correct product selection, and proper installation protect both your vehicle and your investment.

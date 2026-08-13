@@ -2,8 +2,6 @@
 
 Imported vehicles are a common sight on New Zealand roads. American muscle cars, full-size trucks, and European prestige saloons each bring a distinct driving experience. However, they also bring specific battery requirements that differ from standard New Zealand market vehicles. Getting the wrong battery can cause electrical faults, poor performance, and voided warranties.
 
-This article explains what makes battery selection for American and European imports different, and what to consider when sourcing the right solution.
-
 ---
 
 ## Battery Sizing and Voltage in American Vehicles
@@ -38,6 +36,6 @@ Skipping this step results in the computer continuing to treat the new battery a
 
 Whether you own an American truck or a European executive saloon, specialist advice is the most reliable path to the correct battery. Visiting a professional battery supplier means you receive a product matched to your vehicle's actual requirements rather than a generic alternative.
 
-To locate a trusted provider in the Christchurch region, visit [VP Batteries on Google Maps](https://www.google.com/maps?cid=18125822198927760720). For a wider overview of available solutions across the full range of vehicle types, the [VP Batteries homepage](https://vpbatteries.co.nz/) provides detailed information about the products and services on offer.
+For a broad selection of batteries suited to all imported vehicle types, look up [best american automotive batteries nz](https://vpbatteries.co.nz/) from a local specialist in Christchurch. You can also find the service centre by searching [motorbike battery near me](https://www.google.com/maps?cid=18125822198927760720) to access the Google Maps listing with directions and contact details.
 
-You can also find further details via the [VP Batteries listing on Biz411](https://www.biz411.org/christchurch/business-services/vp-batteries), which provides contact and location information for local customers.
+Visit the [VP Batteries profile on Linkin.bio](https://linkin.bio/vpbatteries/) or check the [BigBizStuff business listing](https://www.bigbizstuff.com/christchurch/business-services/vp-batteries) for further information about the available products and services.

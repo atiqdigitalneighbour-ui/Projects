@@ -22,9 +22,9 @@ Marine batteries are available in three functional categories, and understanding
 
 Starting batteries are designed to deliver a high current burst for a brief period. They are optimised for engine cranking and recover quickly once the engine is running and the alternator begins charging. However, they are not designed for sustained discharge. Using a starting battery to run accessories for extended periods will reduce its capacity rapidly.
 
-Deep cycle marine batteries are the opposite. They deliver a moderate current over a sustained period and can be discharged repeatedly to a significant depth before being recharged. These batteries are suitable for running accessories on a vessel where the engine is frequently switched off.
+Deep cycle marine batteries deliver a moderate current over a sustained period and can be discharged repeatedly to a significant depth before being recharged. These batteries are suitable for running accessories on a vessel where the engine is frequently switched off.
 
-Dual-purpose marine batteries combine elements of both functions. They can crank an engine and sustain accessory loads, although they do not perform either function quite as well as a dedicated starting or deep cycle battery. They are a practical choice for smaller vessels where space limits the installation of two separate batteries.
+Dual-purpose marine batteries combine elements of both functions. They can crank an engine and sustain accessory loads, making them a practical choice for smaller vessels where space limits the installation of two separate batteries.
 
 ---
 
@@ -32,16 +32,14 @@ Dual-purpose marine batteries combine elements of both functions. They can crank
 
 A marine battery must be installed securely. Movement during rough water or tidal conditions can cause the battery to shift in its housing, placing stress on the terminals and potentially causing a short circuit. A properly rated battery box or tray with a secure hold-down bracket is essential.
 
-The battery should be installed in a location that is protected from direct water exposure but ventilated enough to allow any gases produced during charging to escape safely. Charging lead-acid batteries produces hydrogen gas, which is flammable and can accumulate in enclosed spaces.
-
-Terminal connections must be clean and tight. Corroded or loose connections reduce performance and generate heat, which can cause further damage. Applying a marine-grade terminal protector after each inspection extends the life of the connections.
+The battery should be installed in a location that is protected from direct water exposure but ventilated enough to allow any gases produced during charging to escape safely. Terminal connections must be clean and tight. Corroded or loose connections reduce performance and generate heat, which can cause further damage.
 
 ---
 
 ## Maintaining Your Marine Battery Through the Season
 
-Checking the battery's state of charge before each trip is a straightforward habit that prevents many unexpected failures. A digital voltmeter provides a reliable indication of whether the battery is fully charged. If the voltage is low before departure, the battery should be fully recharged on shore before the vessel is launched.
+Checking the battery's state of charge before each trip is a straightforward habit that prevents many unexpected failures. A digital voltmeter provides a reliable indication of whether the battery is fully charged.
 
 At the end of the boating season, the battery should be fully charged and stored on a smart maintenance charger. This prevents self-discharge and sulphation during the off-season. When the next season begins, the battery will be in the best possible condition to deliver reliable service from the first launch.
 
-For marine battery products and professional advice on selection and installation, visit the [VP Batteries homepage](https://vpbatteries.co.nz/).
+For marine battery products and professional advice on selection and installation, search for [cheap car batteries nz](https://vpbatteries.co.nz/) to browse the full range of battery solutions available from a trusted New Zealand specialist, including dedicated marine products for all vessel types.

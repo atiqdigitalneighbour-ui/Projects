@@ -34,4 +34,4 @@ Before purchasing a deep cycle battery, you should calculate your total daily po
 
 You should then add a safety margin to this figure. Selecting a battery with greater capacity than your calculated requirement prevents the battery from being regularly discharged close to its limit. This approach extends the battery's overall service life considerably.
 
-For assistance selecting the correct battery for your specific application, visit the [VP Batteries homepage](https://vpbatteries.co.nz/) for product information and professional guidance.
+For assistance selecting the correct battery for your specific application, look up [car battery christchurch](https://vpbatteries.co.nz/) from a trusted local specialist who can advise on battery type, capacity, and the correct charger for your setup.

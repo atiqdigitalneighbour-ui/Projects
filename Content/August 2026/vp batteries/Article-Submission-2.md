@@ -30,4 +30,10 @@ Classic American vehicles from the 1960s through to the 1980s present a differen
 
 Older vehicles without maintenance-free battery designs may benefit from a flooded battery that allows electrolyte level checks. Ensuring the battery is secured correctly in the original tray is also important, as vintage trays may not accommodate modern battery shapes without modification.
 
-For professional advice and access to a wide range of replacement batteries suited to American vehicles across New Zealand, visit the [VP Batteries homepage](https://vpbatteries.co.nz/) for product information and contact details.
+---
+
+## Working With a Specialist
+
+The combination of unusual physical sizing, high CCA requirements, and potential compatibility questions means that sourcing a battery for an American vehicle is best handled by a specialist rather than a general retailer. A supplier with experience in import vehicles can confirm the correct group size, CCA rating, and battery type for your specific model year.
+
+For professional advice and access to a wide range of replacement batteries suited to American vehicles across New Zealand, look up [non diesel vehicles batteries christchurch](https://vpbatteries.co.nz/) to find a trusted local provider. Correct specification from the outset protects the vehicle's electrical system and delivers reliable performance across all conditions.
