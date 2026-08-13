@@ -8,7 +8,7 @@ This document serves as the master data source for the VP Batteries project. It 
 
 | Target URL | Approved Keywords |
 | :--- | :--- |
-| `https://vpbatteries.co.nz/` | car batteries christchurch, car battery christchurch, automotive accessories christchurch, car battery replacement christchurch |
+| `https://vpbatteries.co.nz/` | motorcycle batteries nz, car battery christchurch, cheap car batteries nz, car battery installation nz, non diesel vehicles batteries christchurch, best american automotive batteries nz |
 | `https://vpbatteries.co.nz/standard-automotive/` | non diesel vehicles batteries christchurch, Standard automotive batteries christchurch, Standard automotive batteries |
 | `https://vpbatteries.co.nz/small-diesel/` | small car battery, small diesel batteries christchurch, diesel car battery christchurch |
 | `https://vpbatteries.co.nz/product-category/american-automotive/` | american automotive batteries christchurch, american automotive batteries nz |
