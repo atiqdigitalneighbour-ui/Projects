@@ -28,29 +28,29 @@ This document serves as the master data source for the VP Batteries project. It 
 
 ### Web 2.0 Targets (4 Properties)
 - **1st Web 2.0:**
-  - `https://vpbatteries.co.nz/small-diesel/`
-  - `https://vpbatteries.co.nz/standard-automotive/`
+  - `https://vpbatteries.co.nz/stop-start-agm-and-efb/` — agm batteries christchurch
+  - `https://vpbatteries.co.nz/product-category/deep-cycle/` — deep cycle batteries christchurch nz
 - **2nd Web 2.0:**
-  - `https://vpbatteries.co.nz/european/`
-  - `https://vpbatteries.co.nz/product-category/marine/`
+  - `https://vpbatteries.co.nz/product-category/american-automotive/` — american automotive batteries nz
+  - `https://vpbatteries.co.nz/european/` — european batteries nz
 - **3rd Web 2.0:**
-  - `https://vpbatteries.co.nz/product-category/heavy-duty-truck-commercial/`
-  - `https://vpbatteries.co.nz/product-category/motorcycle/`
+  - `https://vpbatteries.co.nz/mobile-battery-services/` — mobile car battery replacement nz
+  - `https://vpbatteries.co.nz/product-category/marine/` — marine batteries nz
 - **4th Web 2.0:**
-  - `https://vpbatteries.co.nz/product-category/deep-cycle/`
-  - `https://vpbatteries.co.nz/mobile-battery-services/`
+  - `https://vpbatteries.co.nz/product-category/heavy-duty-truck-commercial/` — commercial vehicle batteries christchurch
+  - `https://vpbatteries.co.nz/product-category/accessories/` — vehicle accessories nz
 
 ### Guest Post Targets (4 Posts)
-- **1st Guest Post:** `https://vpbatteries.co.nz/product-category/marine/`
-- **2nd Guest Post:** `https://vpbatteries.co.nz/small-diesel/`
-- **3rd Guest Post:** `https://vpbatteries.co.nz/product-category/motorcycle/`
-- **4th Guest Post:** `https://vpbatteries.co.nz/product-category/american-automotive/`
+- **1st Guest Post:** `https://vpbatteries.co.nz/stop-start-agm-and-efb/` — agm batteries
+- **2nd Guest Post:** `https://vpbatteries.co.nz/european/` — european batteries Christchurch nz
+- **3rd Guest Post:** `https://vpbatteries.co.nz/product-category/heavy-duty-truck-commercial/` — truck batteries nz
+- **4th Guest Post:** `https://vpbatteries.co.nz/mobile-battery-services/` — car battery installation nz
 
 ### Article Submission Targets (4 Articles)
-- **1st Article:** `https://vpbatteries.co.nz/european/`
-- **2nd Article:** `https://vpbatteries.co.nz/mobile-battery-services/`
-- **3rd Article:** `https://vpbatteries.co.nz/product-category/heavy-duty-truck-commercial/`
-- **4th Article:** `https://vpbatteries.co.nz/product-category/deep-cycle/`
+- **1st Article:** `https://vpbatteries.co.nz/product-category/deep-cycle/` — deep cycle batteries christchurch nz
+- **2nd Article:** `https://vpbatteries.co.nz/product-category/american-automotive/` — american automotive batteries
+- **3rd Article:** `https://vpbatteries.co.nz/product-category/accessories/` — vehicle accessories
+- **4th Article:** `https://vpbatteries.co.nz/product-category/marine/` — marine battery nz
 
 ---
 
