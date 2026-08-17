@@ -32,6 +32,14 @@ Slip resistance can be engineered into a concrete-based floor system through the
 
 ---
 
+## Joint Management in Large Retail Floor Areas
+
+Control joints and expansion joints in large concrete slab floors present a particular challenge in retail environments. These joints are necessary to manage the movement and cracking of concrete as it cures and responds to temperature changes. However, in a retail trading environment, open joints collect contamination, present a trip hazard, and interrupt the visual continuity of the floor surface.
+
+Joint filling using semi-rigid polyurea products is the standard approach in commercial retail floor specifications. These materials fill the joint, bond to both sides of the concrete, and flex slightly to accommodate movement without cracking or pulling away. When correctly installed and covered with the appropriate floor system, filled joints become almost invisible and eliminate the contamination and trip hazard issues associated with open joints. Addressing joint treatment as part of the floor specification at the design stage avoids the common situation of joints being left untreated and then requiring costly remediation after the floor is commissioned.
+
+---
+
 ## Minimising Operational Disruption During Installation
 
 For existing retail and supermarket operations, floor preparation and coating work must be scheduled to minimise disruption to trading. This requires a contractor who can work efficiently within defined time windows, whether that means overnight installation in sections or a staged approach that keeps part of the store trading throughout the project.

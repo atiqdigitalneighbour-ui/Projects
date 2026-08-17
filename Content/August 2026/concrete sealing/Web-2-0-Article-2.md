@@ -32,6 +32,14 @@ For main retail trading floors, a polished concrete or densifier-hardened finish
 
 ---
 
+## Managing the Installation Around Trading Hours
+
+One consideration that is often underestimated in retail floor projects is the need to work around the store's trading schedule. Unlike a residential or industrial project, a retail or supermarket floor installation must typically be completed in stages, working overnight or during non-trading hours to avoid disrupting customers and daily operations.
+
+A contractor experienced in retail environments will plan the installation sequence carefully, dividing the floor into manageable sections and ensuring each area is cured and ready for foot traffic before trading resumes. This staged approach requires careful coordination between the contractor, the store operations team, and any other trades working in the space at the same time. Selecting a contractor who has managed this process before reduces risk and helps deliver the project on time.
+
+---
+
 ## Planning Your Retail Floor Project
 
 The most effective retail floor projects begin with a site assessment that covers the slab condition, existing coatings, joint locations, and anticipated traffic patterns. This assessment informs the specification, the preparation method, and the coating or polishing system selected.

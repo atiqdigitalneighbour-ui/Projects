@@ -36,6 +36,14 @@ In some commercial projects, both systems are used in different zones of the sam
 
 ---
 
+## Understanding Finish Longevity and Maintenance
+
+Both polished concrete and epoxy coatings offer excellent longevity when correctly specified and installed, but their maintenance requirements differ in practice. A polished concrete floor benefits from periodic reapplication of a penetrating sealer to maintain its surface protection. This is a straightforward process that can be carried out during regular maintenance periods without significant disruption.
+
+Epoxy coatings, particularly in high-traffic industrial environments, may develop surface wear over time and can be recoated when required. The base coating, if correctly bonded to the substrate, does not need to be removed before a maintenance coat is applied. This makes epoxy systems particularly practical in environments where the floor needs to be refreshed without the cost and disruption of a full replacement. Understanding these maintenance differences helps property managers plan their floor maintenance budgets more accurately and avoid unexpected costs.
+
+---
+
 ## The Importance of Correct Surface Preparation
 
 Whether polished concrete or epoxy is the chosen system, surface preparation is the factor that most determines the outcome. Concrete must be profiled to the correct CSP rating for the chosen coating or polish, and any contamination, laitance, or weak surface material must be removed before work begins.

@@ -32,6 +32,14 @@ In both cases, the condition of the underlying slab is the most important variab
 
 ---
 
+## How the Sealer System Differs Between Applications
+
+The sealer used in a residential living area and the sealer used in a clinical environment serve different priorities, even though both are applied over a polished concrete base. In a home, the sealer is chosen primarily for its ability to protect the floor from everyday household spills and staining while preserving the visual quality of the polished surface. Products are available in a range of sheen levels and are typically reapplied every few years depending on traffic.
+
+In a medical or clinical setting, the sealer must be selected for documented compatibility with the disinfectants and cleaning agents used in the facility. It must also resist repeated wet cleaning without degrading or becoming slippery under wet conditions. Some clinical specifications require a topcoat with a tested slip resistance rating above a defined minimum. A contractor with healthcare flooring experience will carry the correct products for these environments and will be able to provide product data sheets to support compliance documentation if required.
+
+---
+
 ## Working With a Specialist in Christchurch
 
 Whether the project is a residential living area or a healthcare facility, the process begins with understanding the slab and the space. An experienced contractor will assess the concrete condition, discuss the intended use, and recommend the appropriate preparation method and finish system.

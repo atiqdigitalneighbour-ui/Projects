@@ -38,6 +38,14 @@ A reputable contractor will operate with effective dust extraction as a standard
 
 ---
 
+## Selecting the Right Equipment for the Job
+
+Not all grinding equipment is equally suited to every task. Large planetary grinders are well suited to open floor areas in warehouses, commercial buildings, and new residential slabs. They cover ground efficiently and deliver consistent results across large areas. Smaller hand-held or edge grinding equipment is required to address areas adjacent to walls, columns, and around floor penetrations that large machines cannot reach.
+
+In confined spaces or where vibration and noise must be minimised, specialised equipment may be used to achieve the required profile without causing disruption to adjacent occupied areas. A contractor with a well-maintained fleet of machines in different sizes will be able to address all areas of the floor to a consistent standard, which is particularly important in projects where the finished system relies on uniform adhesion across the entire surface.
+
+---
+
 ## Starting Your Project With the Right Preparation
 
 Every successful floor finish begins with the concrete surface underneath it. Investing in thorough, correctly specified grinding at the outset protects the performance of the coating or polish applied over it and reduces the risk of costly rework.

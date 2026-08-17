@@ -32,6 +32,14 @@ The slip resistance level specified should reflect the typical moisture conditio
 
 ---
 
+## Noise Reduction and Acoustic Considerations
+
+An aspect of clinical flooring that is sometimes overlooked during the specification process is acoustic performance. Hard flooring surfaces including concrete can reflect sound, increasing the ambient noise level in corridors and treatment rooms. In healthcare environments, elevated noise levels affect both patient comfort and staff concentration during consultations and procedures.
+
+Acoustic underlays and soft furnishings can help manage sound reflection in rooms where hard flooring is used, but the floor specification itself can also contribute. Some topcoat systems incorporate materials that provide a modest reduction in impact noise transmission between floors. In multi-level clinic buildings, this may be an additional consideration when selecting the sealer or topcoat system for clinical areas. Raising this with the contractor during the design phase allows solutions to be incorporated before installation rather than addressed retrospectively.
+
+---
+
 ## Long-Term Value in Healthcare Environments
 
 One of the most compelling arguments for concrete-based flooring in clinical settings is its long-term cost performance. Unlike vinyl, carpet, or even some commercial-grade tiles, a properly prepared and sealed concrete floor does not need to be replaced on a regular cycle. The base material is already in place as part of the building structure. The cost is in the surface preparation and sealing, which, when done correctly, produces a floor that will remain serviceable for many years with routine maintenance.

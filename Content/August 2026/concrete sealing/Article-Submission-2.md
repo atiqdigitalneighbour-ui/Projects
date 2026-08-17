@@ -32,6 +32,14 @@ Decorative epoxy systems for garages often incorporate coloured flake or metalli
 
 ---
 
+## Topcoat Options and Their Role in Performance
+
+The base epoxy coating is rarely the final layer in a well-specified floor system. In most commercial and industrial applications, a polyurethane or polyaspartic topcoat is applied over the cured epoxy. This topcoat provides additional UV resistance, which prevents the epoxy from yellowing in areas exposed to natural light. It also adds an extra layer of abrasion resistance and makes the floor easier to clean by providing a smoother, harder surface.
+
+Polyaspartic topcoats in particular have become popular because they cure rapidly, reducing the downtime between installation and the floor being available for use. In commercial environments where every hour of closure represents lost revenue, a fast-curing topcoat can significantly reduce the impact of floor installation on operations. The choice of topcoat should be discussed with the contractor at the specification stage, as different products suit different environments and use cases.
+
+---
+
 ## Surface Preparation: The Factor That Determines Performance
 
 No epoxy system performs as intended over poorly prepared concrete. Contamination from oil, grease, dust, or previously applied coatings will prevent the epoxy from bonding to the substrate. Laitance, the weak surface layer that forms as concrete cures, must be removed mechanically before application.

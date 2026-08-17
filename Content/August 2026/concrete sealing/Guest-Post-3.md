@@ -32,6 +32,14 @@ A professional assessment before work begins sets realistic expectations and all
 
 ---
 
+## Combining Polished Concrete With Other Interior Elements
+
+Polished concrete works particularly well when considered alongside the other materials and finishes used in a home. Timber joinery, exposed brick, raw steel, and natural stone all pair effectively with a polished concrete floor, creating interiors that feel both sophisticated and grounded. When designing a new home or undertaking a renovation, consulting with your interior designer and flooring contractor together ensures the concrete finish is selected with the full interior palette in mind.
+
+Rugs can also be used selectively over polished concrete to define zones within an open-plan space, add warmth underfoot in seating areas, and introduce texture and colour. This approach gives homeowners the practicality of a low-maintenance hard floor across the majority of the space while retaining the softness and comfort of textile surfaces where they are most needed.
+
+---
+
 ## The Investment Perspective
 
 When considered over the full life of the floor, polished concrete compares very favourably to the alternatives. Carpet requires regular deep cleaning and typically needs replacement every ten to fifteen years. Tiles require grout maintenance and are difficult and expensive to repair if damaged. Engineered timber is susceptible to moisture and requires refinishing over time.

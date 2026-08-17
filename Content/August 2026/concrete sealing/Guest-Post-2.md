@@ -32,6 +32,14 @@ For property owners and builders in Lincoln looking for a reliable, professional
 
 ---
 
+## Protecting Your Polished Floor After Installation
+
+Once a polished concrete floor has been installed in a Lincoln property, protecting that investment requires attention to a few key practices. A penetrating sealer applied at the end of the polishing process provides the primary layer of surface protection, but this sealer will gradually wear in high-traffic zones and should be reapplied periodically. The frequency depends on the level of foot traffic and the type of activities occurring on the floor.
+
+Cleaning should be carried out using a pH-neutral cleaner rather than acidic or alkaline products that can break down the sealer over time. Soft pads on furniture legs and the use of entrance mats at exterior doorways help reduce the rate at which grit and abrasive particles are tracked onto the floor. These simple measures extend the life of the finish considerably and reduce the frequency of professional maintenance visits.
+
+---
+
 ## Planning Your Project in Lincoln
 
 A polished concrete project in Lincoln should begin with a site visit and slab assessment. The contractor should confirm the condition of the concrete, advise on the realistic finish achievable given the slab's characteristics, and provide a clear outline of the process and timeline.

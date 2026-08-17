@@ -40,6 +40,14 @@ A full cut exposes the aggregate more completely, producing a terrazzo-like appe
 
 ---
 
+## The Role of Chemical Densifiers in Achieving a Durable Finish
+
+A step that is fundamental to the quality of any polished concrete floor but not always well understood by property owners is the application of a chemical densifier during the polishing process. Densifiers, typically lithium or sodium silicate-based solutions, penetrate the concrete surface and react chemically with the calcium compounds in the cement paste. The reaction produces a harder, denser surface that is more resistant to abrasion, less porous, and better able to hold a high-quality polish.
+
+Skipping or inadequately applying the densifier results in a floor that appears polished initially but wears poorly over time. The surface becomes susceptible to dusting, which is the gradual release of fine concrete particles under foot traffic. A properly densified floor is significantly more durable and maintains its appearance under sustained use, making the densification step one of the most important quality indicators when evaluating a contractor's process.
+
+---
+
 ## Maintenance Requirements After Polishing
 
 One of the most practical advantages of polished concrete is its low maintenance requirement. A sealed and polished floor can be maintained with regular sweeping and damp mopping using a pH-neutral cleaner. Harsh chemical cleaners are not required and should be avoided as they can affect the sealer over time.

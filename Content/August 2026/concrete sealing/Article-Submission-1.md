@@ -32,6 +32,14 @@ A shallow grind produces what is known as a cream finish, where the surface laye
 
 ---
 
+## Choosing a Finish Level That Suits Your Space
+
+The sheen level of a polished concrete floor is a separate decision from the aggregate exposure level, and both should be considered together when planning the project. A high-gloss finish with fully exposed aggregate creates a dramatic, stone-like surface that suits contemporary architectural styles and large open-plan spaces. A matte or honed finish with minimal aggregate exposure produces a quieter, more uniform result that integrates easily into a wider range of interior palettes.
+
+For commercial spaces in Rangiora such as retail premises, offices, and hospitality venues, the sheen level also has a functional dimension. Higher-gloss finishes reflect more light and can make a space feel larger and brighter, which is often beneficial in retail environments. In workplaces where screen glare is a consideration, a lower-sheen finish may be the more practical choice. Discussing the intended use of the space with the contractor before the specification is finalised ensures the finish selected serves both the aesthetic and operational requirements of the project.
+
+---
+
 ## Maintenance and Long-Term Performance in Rangiora Conditions
 
 Rangiora's climate is consistent with the wider Canterbury region, experiencing warm, dry summers and cool winters. Polished concrete performs well in these conditions. The floor does not expand and contract with temperature changes in the way that timber can, and it does not absorb moisture during winter in the way that carpet sometimes does in poorly ventilated spaces.
