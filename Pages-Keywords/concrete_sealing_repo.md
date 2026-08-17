@@ -8,7 +8,7 @@ This document serves as the master data source for the Concrete Sealing and Grin
 
 | Target URL | Approved Keywords |
 | :--- | :--- |
-| `https://concretesealing.co.nz/` | Concrete Polishing, Concrete Sealing, Concrete Sealing Services In Christchurch, Concrete Sealing In Christchurch |
+| `https://concretesealing.co.nz/` | Concrete Polishing nz, Concrete Sealing nz, Concrete Sealing Services nz, Concrete Sealing In Christchurch, concrete floor polishing canterbury, commercial concrete grinding christchurch, best concrete finishing christchurch |
 | `https://concretesealing.co.nz/locations/lincoln` | Concrete Floor Polishing Lincoln nz |
 | `https://concretesealing.co.nz/locations/rangiora` | Concrete Polishing Rangiora nz |
 | `https://concretesealing.co.nz/retail-supermarket-flooring` | High-Performance Retail flooring Christchurch |
