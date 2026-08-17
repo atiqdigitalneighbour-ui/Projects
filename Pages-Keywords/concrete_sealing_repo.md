@@ -9,19 +9,14 @@ This document serves as the master data source for the Concrete Sealing and Grin
 | Target URL | Approved Keywords |
 | :--- | :--- |
 | `https://concretesealing.co.nz/` | Concrete Polishing, Concrete Sealing, Concrete Sealing Services In Christchurch, Concrete Sealing In Christchurch |
-| `https://concretesealing.co.nz/garage-epoxy-flooring` | Epoxy Flooring for garage Christchurch |
-| `https://concretesealing.co.nz/gym-fitness-flooring` | Gym Fitness Flooring in Christchurch |
-| `https://concretesealing.co.nz/medical-clinic-flooring` | medical flooring in Christchurch |
-| `https://concretesealing.co.nz/kitchen-hallway-concrete-floors` | Kitchen Concrete Floors Christchurch |
-| `https://concretesealing.co.nz/locations/canterbury` | Concrete Floor Polishing Canterbury |
-| `https://concretesealing.co.nz/services/concrete-grinding` | Concrete Grinding Services Christchurch, Best Concrete Grinding Services Christchurch |
-| `https://concretesealing.co.nz/warehouse-factory-flooring` | Warehouse Flooring in Christchurch |
-| `https://concretesealing.co.nz/polished-concrete-living-areas` | Polished Concrete Living Areas in Christchurch |
-| `https://concretesealing.co.nz/locations/lincoln` | Concrete floor polishing in Lincoln |
-| `https://concretesealing.co.nz/retail-supermarket-flooring` | retail flooring Christchurch |
-| `https://concretesealing.co.nz/hospitality-flooring` | Hospitality Flooring in Christchurch |
-| `https://concretesealing.co.nz/services/repairs-prep` | Concrete Repair Services Christchurch, crack repair in Christchurch |
-| `https://concretesealing.co.nz/services/polished-concrete-finishes` | concrete finishing services in Christchurch |
+| `https://concretesealing.co.nz/locations/lincoln` | Concrete Floor Polishing Lincoln nz |
+| `https://concretesealing.co.nz/locations/rangiora` | Concrete Polishing Rangiora nz |
+| `https://concretesealing.co.nz/retail-supermarket-flooring` | High-Performance Retail flooring Christchurch |
+| `https://concretesealing.co.nz/services/concrete-grinding` | Concrete Grinding Services Christchurch nz |
+| `https://concretesealing.co.nz/services/concrete-polishing` | Concrete Floor Polishing Christchurch nz |
+| `https://concretesealing.co.nz/services/epoxy-coatings` | Epoxy Flooring in Christchurch nz |
+| `https://concretesealing.co.nz/polished-concrete-living-areas` | Polished Concrete Living Areas Christchurch nz |
+| `https://concretesealing.co.nz/medical-clinic-flooring` | Medical & Clinic Flooring service Christchurch nz |
 
 ---
 
@@ -31,29 +26,29 @@ This document serves as the master data source for the Concrete Sealing and Grin
 
 ### Web 2.0 Targets (4 Properties)
 - **1st Web 2.0:**
-  - `https://concretesealing.co.nz/services/polished-concrete-finishes`
-  - `https://concretesealing.co.nz/hospitality-flooring`
-- **2nd Web 2.0:**
-  - `https://concretesealing.co.nz/services/repairs-prep`
   - `https://concretesealing.co.nz/locations/lincoln`
-- **3rd Web 2.0:**
-  - `https://concretesealing.co.nz/polished-concrete-living-areas`
-  - `https://concretesealing.co.nz/kitchen-hallway-concrete-floors`
-- **4th Web 2.0:**
+  - `https://concretesealing.co.nz/locations/rangiora`
+- **2nd Web 2.0:**
   - `https://concretesealing.co.nz/retail-supermarket-flooring`
-  - `https://concretesealing.co.nz/warehouse-factory-flooring`
+  - `https://concretesealing.co.nz/services/concrete-grinding`
+- **3rd Web 2.0:**
+  - `https://concretesealing.co.nz/services/concrete-polishing`
+  - `https://concretesealing.co.nz/services/epoxy-coatings`
+- **4th Web 2.0:**
+  - `https://concretesealing.co.nz/polished-concrete-living-areas`
+  - `https://concretesealing.co.nz/medical-clinic-flooring`
 
 ### Guest Post Targets (4 Posts)
-- **1st Guest Post:** `https://concretesealing.co.nz/garage-epoxy-flooring`
-- **2nd Guest Post:** `https://concretesealing.co.nz/gym-fitness-flooring`
-- **3rd Guest Post:** `https://concretesealing.co.nz/medical-clinic-flooring`
-- **4th Guest Post:** `https://concretesealing.co.nz/kitchen-hallway-concrete-floors`
+- **1st Guest Post:** `https://concretesealing.co.nz/medical-clinic-flooring`
+- **2nd Guest Post:** `https://concretesealing.co.nz/locations/lincoln`
+- **3rd Guest Post:** `https://concretesealing.co.nz/polished-concrete-living-areas`
+- **4th Guest Post:** `https://concretesealing.co.nz/services/concrete-grinding`
 
 ### Article Submission Targets (4 Articles)
-- **1st Article:** `https://concretesealing.co.nz/locations/canterbury`
-- **2nd Article:** `https://concretesealing.co.nz/services/concrete-grinding`
-- **3rd Article:** `https://concretesealing.co.nz/services/repairs-prep`
-- **4th Article:** `https://concretesealing.co.nz/warehouse-factory-flooring`
+- **1st Article:** `https://concretesealing.co.nz/locations/rangiora`
+- **2nd Article:** `https://concretesealing.co.nz/services/epoxy-coatings`
+- **3rd Article:** `https://concretesealing.co.nz/services/concrete-polishing`
+- **4th Article:** `https://concretesealing.co.nz/retail-supermarket-flooring`
 
 ---
 
