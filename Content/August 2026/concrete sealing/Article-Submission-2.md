@@ -44,4 +44,4 @@ The standard preparation method for epoxy flooring is diamond grinding or shot b
 
 The most effective approach to any epoxy flooring project begins with a site assessment, a clear understanding of the environment the floor must perform in, and a specification that matches the system to the demands of the space.
 
-For expert epoxy flooring, concrete polishing, and sealing services in Christchurch and across Canterbury, visit [Concrete Sealing and Grinding NZ](https://concretesealing.co.nz/) to discuss your requirements and receive a tailored recommendation.
+For expert epoxy flooring, concrete polishing, and sealing services in Christchurch and across Canterbury, visit [Concrete Sealing Services nz](https://concretesealing.co.nz/) to discuss your requirements and receive a tailored recommendation.

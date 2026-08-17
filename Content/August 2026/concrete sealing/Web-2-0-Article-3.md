@@ -40,8 +40,8 @@ In some commercial projects, both systems are used in different zones of the sam
 
 Whether polished concrete or epoxy is the chosen system, surface preparation is the factor that most determines the outcome. Concrete must be profiled to the correct CSP rating for the chosen coating or polish, and any contamination, laitance, or weak surface material must be removed before work begins.
 
-For expert advice on the right flooring system for your Christchurch property or commercial project, visit [Concrete Sealing and Grinding NZ](https://concretesealing.co.nz/) to discuss your requirements and receive a professional assessment.
+For expert advice on the right flooring system for your Christchurch property or commercial project, visit [Concrete Sealing Services nz](https://concretesealing.co.nz/) to discuss your requirements and receive a professional assessment.
 
-Locate the business directly by searching [Concrete Sealing and Grinding NZ](https://www.google.com/maps?cid=10156416170540647263) on Google Maps for directions and contact details.
+Locate the business directly by searching [commercial concrete grinding christchurch](https://www.google.com/maps?cid=10156416170540647263) on Google Maps for directions and contact details.
 
 Additional information is available via the [Concrete Sealing profile on Penposh](https://penposh.com/concretesealing6) and the [Provenexpert business listing](https://www.provenexpert.com/concrete-sealing-and-grinding-nz/?mode=preview).

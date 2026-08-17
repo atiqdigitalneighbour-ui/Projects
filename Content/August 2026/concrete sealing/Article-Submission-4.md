@@ -38,4 +38,4 @@ For existing retail and supermarket operations, floor preparation and coating wo
 
 Planning the installation sequence in advance, including the location of trading boundaries, the management of dust and fumes, and the cure time before foot traffic is permitted, is an essential part of delivering a retail floor project on time and within operational constraints.
 
-For retail and commercial flooring solutions across Christchurch and Canterbury, visit [Concrete Sealing and Grinding NZ](https://concretesealing.co.nz/) to discuss your project requirements and arrange a site assessment.
+For retail and commercial flooring solutions across Christchurch and Canterbury, visit [concrete floor polishing canterbury](https://concretesealing.co.nz/) to discuss your project requirements and arrange a site assessment.

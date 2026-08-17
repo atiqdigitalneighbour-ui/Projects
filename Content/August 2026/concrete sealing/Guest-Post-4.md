@@ -42,4 +42,4 @@ A reputable contractor will operate with effective dust extraction as a standard
 
 Every successful floor finish begins with the concrete surface underneath it. Investing in thorough, correctly specified grinding at the outset protects the performance of the coating or polish applied over it and reduces the risk of costly rework.
 
-For professional concrete grinding, polishing, and sealing services across Christchurch and Canterbury, visit [Concrete Sealing and Grinding NZ](https://concretesealing.co.nz/) to arrange an assessment and discuss your project requirements.
+For professional concrete grinding, polishing, and sealing services across Christchurch and Canterbury, visit [Concrete Polishing nz](https://concretesealing.co.nz/) to arrange an assessment and discuss your project requirements.

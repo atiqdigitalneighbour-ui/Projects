@@ -38,4 +38,4 @@ Rangiora's climate is consistent with the wider Canterbury region, experiencing 
 
 Routine maintenance involves regular sweeping and damp mopping with a pH-neutral cleaner. Periodic resealing, typically every few years depending on traffic levels, keeps the surface protected and maintains its appearance. A properly maintained polished concrete floor in a Rangiora home or commercial property can remain in excellent condition for the lifetime of the building.
 
-For concrete polishing, sealing, and grinding services across Rangiora and the wider Canterbury region, visit [Concrete Sealing and Grinding NZ](https://concretesealing.co.nz/) to arrange a site assessment and discuss your project.
+For concrete polishing, sealing, and grinding services across Rangiora and the wider Canterbury region, visit [Concrete Sealing nz](https://concretesealing.co.nz/) to arrange a site assessment and discuss your project.

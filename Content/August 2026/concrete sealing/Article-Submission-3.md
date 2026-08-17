@@ -46,4 +46,4 @@ One of the most practical advantages of polished concrete is its low maintenance
 
 Periodic resealing extends the life of the surface protection and maintains the floor's appearance. Depending on traffic levels, this may be required every few years in commercial settings and less frequently in residential spaces.
 
-For expert concrete floor polishing across Christchurch and the wider Canterbury region, visit [Concrete Sealing and Grinding NZ](https://concretesealing.co.nz/) to arrange a site assessment and discuss the right finish for your property.
+For expert concrete floor polishing across Christchurch and the wider Canterbury region, visit [Concrete Sealing In Christchurch](https://concretesealing.co.nz/) to arrange a site assessment and discuss the right finish for your property.

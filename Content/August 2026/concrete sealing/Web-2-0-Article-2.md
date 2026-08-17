@@ -36,8 +36,8 @@ For main retail trading floors, a polished concrete or densifier-hardened finish
 
 The most effective retail floor projects begin with a site assessment that covers the slab condition, existing coatings, joint locations, and anticipated traffic patterns. This assessment informs the specification, the preparation method, and the coating or polishing system selected.
 
-For retail and commercial floor solutions across Christchurch and the wider Canterbury region, visit [Concrete Sealing and Grinding NZ](https://concretesealing.co.nz/) to discuss your project requirements with an experienced team.
+For retail and commercial floor solutions across Christchurch and the wider Canterbury region, visit [Concrete Sealing nz](https://concretesealing.co.nz/) to discuss your project requirements with an experienced team.
 
-Find the business on Google Maps by searching [Concrete Sealing and Grinding NZ](https://www.google.com/maps?cid=10156416170540647263) to confirm location and contact details.
+Find the business on Google Maps by searching [concrete floor polishing canterbury](https://www.google.com/maps?cid=10156416170540647263) to confirm location and contact details.
 
 Further information about the business is available through the [Concrete Sealing profile on Clout Apps](https://cloutapps.com/concretesealing6) and the [Storeboard business listing](https://www.storeboard.com/concretesealingandgrindingnz1).

@@ -36,4 +36,4 @@ For property owners and builders in Lincoln looking for a reliable, professional
 
 A polished concrete project in Lincoln should begin with a site visit and slab assessment. The contractor should confirm the condition of the concrete, advise on the realistic finish achievable given the slab's characteristics, and provide a clear outline of the process and timeline.
 
-For concrete polishing, sealing, and grinding services in Lincoln and the wider Canterbury region, visit [Concrete Sealing and Grinding NZ](https://concretesealing.co.nz/) to arrange a consultation.
+For concrete polishing, sealing, and grinding services in Lincoln and the wider Canterbury region, visit [commercial concrete grinding christchurch](https://concretesealing.co.nz/) to arrange a consultation.

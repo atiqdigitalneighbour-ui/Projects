@@ -38,4 +38,4 @@ When considered over the full life of the floor, polished concrete compares very
 
 A properly executed polished concrete floor in a residential living area can last the lifetime of the building with minimal intervention. Periodic reapplication of a penetrating sealer is typically all that is required to maintain its performance and appearance.
 
-For residential concrete floor polishing, sealing, and grinding across Christchurch and Canterbury, visit [Concrete Sealing and Grinding NZ](https://concretesealing.co.nz/) to discuss your project and arrange an on-site assessment.
+For residential concrete floor polishing, sealing, and grinding across Christchurch and Canterbury, visit [best concrete finishing christchurch](https://concretesealing.co.nz/) to discuss your project and arrange an on-site assessment.

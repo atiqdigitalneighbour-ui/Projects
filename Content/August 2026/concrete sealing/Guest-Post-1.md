@@ -36,4 +36,4 @@ The slip resistance level specified should reflect the typical moisture conditio
 
 One of the most compelling arguments for concrete-based flooring in clinical settings is its long-term cost performance. Unlike vinyl, carpet, or even some commercial-grade tiles, a properly prepared and sealed concrete floor does not need to be replaced on a regular cycle. The base material is already in place as part of the building structure. The cost is in the surface preparation and sealing, which, when done correctly, produces a floor that will remain serviceable for many years with routine maintenance.
 
-For healthcare facility owners and fitout contractors across Christchurch, visit [Concrete Sealing and Grinding NZ](https://concretesealing.co.nz/) to discuss the appropriate flooring specification for your clinical environment and request a professional assessment.
+For healthcare facility owners and fitout contractors across Christchurch, visit [concrete floor polishing canterbury](https://concretesealing.co.nz/) to discuss the appropriate flooring specification for your clinical environment and request a professional assessment.

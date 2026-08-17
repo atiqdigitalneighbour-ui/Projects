@@ -36,8 +36,8 @@ For builders and property owners in this area, sourcing a specialist in [Concret
 
 Not every concrete floor is suited to every level of polish. The condition of the existing slab, the aggregate mix, and the presence of any existing coatings all affect what is achievable. A professional assessment before work begins ensures the client understands the realistic outcome and selects a finish that suits both the slab and the space.
 
-For a wide range of concrete finishing services across Canterbury, including Lincoln, Rangiora, and the greater Christchurch region, visit [Concrete Sealing and Grinding NZ](https://concretesealing.co.nz/) to explore service options and request a consultation.
+For a wide range of concrete finishing services across Canterbury, including Lincoln, Rangiora, and the greater Christchurch region, visit [Concrete Polishing nz](https://concretesealing.co.nz/) to explore service options and request a consultation.
 
-You can also locate the team directly by searching [Concrete Sealing and Grinding NZ](https://www.google.com/maps?cid=10156416170540647263) on Google Maps for directions and contact details.
+You can also locate the team directly by searching [Concrete Sealing In Christchurch](https://www.google.com/maps?cid=10156416170540647263) on Google Maps for directions and contact details.
 
 For further background on the business, visit the [Concrete Sealing profile on Expat Health Seoul](https://expathealthseoul.com/profile/concrete-sealing-and-grinding-nz/) or check the [Finda NZ business listing](https://www.finda.co.nz/business/listing/4s7xnw/concrete-sealing-and-grinding-nz/) for contact and location information.

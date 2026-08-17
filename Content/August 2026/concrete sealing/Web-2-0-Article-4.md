@@ -36,8 +36,8 @@ In both cases, the condition of the underlying slab is the most important variab
 
 Whether the project is a residential living area or a healthcare facility, the process begins with understanding the slab and the space. An experienced contractor will assess the concrete condition, discuss the intended use, and recommend the appropriate preparation method and finish system.
 
-For expert concrete flooring services across Christchurch and Canterbury, visit [Concrete Sealing and Grinding NZ](https://concretesealing.co.nz/) to arrange a consultation and receive a tailored recommendation for your property.
+For expert concrete flooring services across Christchurch and Canterbury, visit [Concrete Sealing In Christchurch](https://concretesealing.co.nz/) to arrange a consultation and receive a tailored recommendation for your property.
 
-You can also find the team on Google Maps by searching [Concrete Sealing and Grinding NZ](https://www.google.com/maps?cid=10156416170540647263) for location and contact details.
+You can also find the team on Google Maps by searching [best concrete finishing christchurch](https://www.google.com/maps?cid=10156416170540647263) for location and contact details.
 
 For further details, see the [Concrete Sealing profile on Droidt99](https://droidt99.com/concretesealing6) or the [Finda NZ listing](https://www.finda.co.nz/business/listing/4s7xnw/concrete-sealing-and-grinding-nz/).
