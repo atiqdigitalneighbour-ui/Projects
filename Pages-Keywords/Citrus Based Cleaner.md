@@ -24,7 +24,7 @@ This document serves as the master data source for the Citrus Based Cleaner proj
 
 | # | Target Pages (per property) | Primary Keywords |
 | :--- | :--- | :--- |
-| 1 | `https://www.citrusbasedcleaner.co.nz/product/chain-degreaser/` + `https://www.citrusbasedcleaner.co.nz/product-category/citrus-based-cleaner/` | NZ Made Chain Degreaser, Biodegradable Chain Degreaser nz |
+| 1 | `https://www.citrusbasedcleaner.co.nz/product/chain-degreaser/` + `https://www.citrusbasedcleaner.co.nz/product/ciitrus-based-cleaner/` | NZ Made Chain Degreaser, Household Citrus Cleaner Concentrate |
 | 2 | `https://www.citrusbasedcleaner.co.nz/product/large-doodle-bug/` + `https://www.citrusbasedcleaner.co.nz/product/new-citrus-blast-concentrate/` | Doodlebug Cleaning Pad nz, Biodegradable Citrus Based Deodoriser nz |
 
 ---
