@@ -8,73 +8,60 @@ This document serves as the master data source for the Pra Developments project.
 
 | Target URL | Approved Keywords |
 | :--- | :--- |
-| `https://pradevelopments.com.au` | Property Developer Perth, Perth Property Developer, Property Development Perth |
-| `https://pradevelopments.com.au/perth-townhouse-developers` | Best Townhouse Developers Perth, Townhouse Developers In Perth, Perth Townhouse Developers |
-| `https://pradevelopments.com.au/perth-homes-developers` | Best Home Developers Perth, Perth Homes Developers, Homes Developers In Perth |
-| `https://pradevelopments.com.au/perth-turnkey-homes-developers` | Turnkey Homes Developers In Perth, Perth Turnkey Homes Developers, Best Turnkey Homes Developers Perth |
-| `https://pradevelopments.com.au/perth-apartment-developers` | Apartment Developers In Perth, Best Apartment Developers Perth, Perth Apartment Developers |
-| `https://pradevelopments.com.au/perth-investment-property-developers` | Investment Property Developers In Perth, Perth Investment Property Developers, Best Investment Property Developers Perth |
-| `https://pradevelopments.com.au/belmont-property-developers` | Property Developers In Belmont, Belmont Property Developers, Best Property Developers Belmont |
-| `https://pradevelopments.com.au/belmont-townhouse-developers` | Townhouse Developers In Belmont, Belmont Townhouse Developers, Best Townhouse Developers Belmont |
-| `https://pradevelopments.com.au/belmont-homes-developers` | Homes Developers In Belmont, Belmont Homes Developers, Best Homes Developers Belmont |
-| `https://pradevelopments.com.au/belmont-turnkey-homes-developers` | Turnkey Homes Developers In Belmont, Belmont Turnkey Homes Developers, Best Turnkey Homes Developers Belmont |
-| `https://pradevelopments.com.au/belmont-apartment-developers` | Apartment Developers In Belmont, Belmont Apartment Developers, Best Apartment Developers Belmont |
-| `https://pradevelopments.com.au/belmont-investment-property-developers` | Investment Property Developers In Belmont, Belmont Investment Property Developers, Best Investment Property Developers Belmont |
-| `https://pradevelopments.com.au/perth-1-bedroom-properties` | 1 Bedroom Properties In Perth, 1 Bedrooom Houses Perth, 1 Bedrooom Houses For Sale Perth |
-| `https://pradevelopments.com.au/perth-2-bedroom-properties` | 2 Bedroom Properties In Perth, 2 Bedroom Houses For Sale Perth, 2 Bedroom Houses In Perth |
-| `https://pradevelopments.com.au/perth-3-bedroom-properties` | 3 Bedroom Properties Perth, 3 Bedroom Houses In Perth, 3 Bedroom Houses For Sale Perth |
-| `https://pradevelopments.com.au/perth-4-bedroom-properties` | 4 Bedroom Properties Perth, 4 Bedroom Houses For Sale Perth, 4 Bedroom Houses In Perth |
-| `https://pradevelopments.com.au/perth-5-bedroom-properties` | 5 Bedroom Properties Perth, 5 Bedroom Houses For Sale Perth, 5 Bedroom Houses In Perth |
-| `https://pradevelopments.com.au/belmont-1-bedroom-properties` | 1 Bedroom Properties Belmont, 1 Bedroom Houses For Sale Belmont, 1 Bedroom Houses In Belmont |
-| `https://pradevelopments.com.au/belmont-2-bedroom-properties` | 2 Bedroom Properties Belmont, 2 Bedroom Houses For Sale Belmont, 2 Bedroom Houses In Belmont |
-| `https://pradevelopments.com.au/belmont-3-bedroom-properties` | 3 Bedroom Properties Belmont, 3 Bedroom Houses For Sale Belmont, 3 Bedroom Houses In Belmont |
-| `https://pradevelopments.com.au/belmont-4-bedroom-properties` | 4 Bedroom Properties Belmont, 4 Bedroom Houses For Sale Belmont, 4 Bedroom Houses In Belmont |
-| `https://pradevelopments.com.au/belmont-5-bedroom-properties` | 5 Bedroom Properties Belmont, 5 Bedroom Houses For Sale Belmont, 5 Bedroom Houses In Belmont |
-| `https://pradevelopments.com.au/perth-developments` | Property Developments In Perth, Perth Property Developments, New Property Developments Perth |
-| `https://pradevelopments.com.au/perth-townhouses` | Townhouses For Sale Perth, Townhouses For Sale In Perth |
-| `https://pradevelopments.com.au/perth-homes` | Homes For Sale Perth, Perth Homes For Sale |
-| `https://pradevelopments.com.au/perth-apartments` | Perth Apartments For Sale, Apartments For Sale Perth |
-| `https://pradevelopments.com.au/perth-investment-properties` | Investment Properties Perth, Perth Investment Properties, Investment Properties For Sale Perth |
-| `https://pradevelopments.com.au/belmont-developments` | Property Developments Belmont, Belmont Property Developments, New Property Developments Belmont |
-| `https://pradevelopments.com.au/belmont-townhouses` | Townhouses For Sale Belmont, Belmont Townhouses For Sale, Townhouses In Belmont |
-| `https://pradevelopments.com.au/belmont-homes` | Homes For Sale Belmont, Belmont Homes For Sale |
-| `https://pradevelopments.com.au/belmont-apartments` | Apartments For Sale Belmont, Belmont Apartments For Sale |
-| `https://pradevelopments.com.au/belmont-investment-properties` | Investment Properties In Belmont, Belmont Investment Properties, Investment Properties For Sale Belmont |
+| `https://pradevelopments.com.au` | Property Developer Perth, property developers in belmont, Property Development Perth, Best Townhouse Developers Perth, Best Home Developers Perth, properties for sale in perth, apartments for sale belmont, belmont homes for sale |
+| `https://pradevelopments.com.au/perth-developments` | New Property Developments Perth |
+| `https://pradevelopments.com.au/perth-apartments` | Perth Apartments For Sale |
+| `https://pradevelopments.com.au/perth-5-bedroom-properties` | 5 Bedroom Houses In Perth |
+| `https://pradevelopments.com.au/perth-3-bedroom-properties` | 3 Bedroom Houses In Perth |
+| `https://pradevelopments.com.au/belmont-developments` | New Property Developments Belmont |
+| `https://pradevelopments.com.au/belmont-apartments` | Belmont Apartments For Sale |
+| `https://pradevelopments.com.au/belmont-4-bedroom-properties` | 4 Bedroom Houses In Belmont |
+| `https://pradevelopments.com.au/belmont-5-bedroom-properties` | 5 Bedroom Houses In Belmont |
+| `https://pradevelopments.com.au/perth-apartment-developers` | Perth Apartment Developers |
+| `https://pradevelopments.com.au/perth-investment-properties` | Perth Investment Properties |
+| `https://pradevelopments.com.au/belmont-homes-developers` | Belmont Homes Developers |
+| `https://pradevelopments.com.au/belmont-investment-property-developers` | Belmont Investment Property Developers |
+| `https://pradevelopments.com.au/properties` | Perth Properties For Sale |
+| `https://pradevelopments.com.au/perth-1-bedroom-properties` | 1 Bedroom Properties In Perth |
+| `https://pradevelopments.com.au/belmont-investment-properties` | Belmont Investment Properties |
+| `https://pradevelopments.com.au/belmont-3-bedroom-properties` | 3 Bedroom Houses In Belmont |
 
 ---
 
 ## 2. Campaign Target Assignments
 
-### Web 2.0 Targets
-- `https://pradevelopments.com.au`
-- `https://pradevelopments.com.au/perth-turnkey-homes-developers`
-- `https://pradevelopments.com.au/perth-homes`
-- `https://pradevelopments.com.au/perth-3-bedroom-properties`
-- `https://pradevelopments.com.au/perth-2-bedroom-properties`
-- `https://pradevelopments.com.au/belmont-1-bedroom-properties`
-- `https://pradevelopments.com.au/belmont-4-bedroom-properties`
-- `https://pradevelopments.com.au/belmont-investment-properties`
-- `https://pradevelopments.com.au/belmont-turnkey-homes-developers`
+### Web 2.0 Targets (4 Properties)
+- **1st Web 2.0:**
+  - `https://pradevelopments.com.au/perth-developments`
+  - `https://pradevelopments.com.au/perth-apartments`
+- **2nd Web 2.0:**
+  - `https://pradevelopments.com.au/perth-5-bedroom-properties`
+  - `https://pradevelopments.com.au/perth-3-bedroom-properties`
+- **3rd Web 2.0:**
+  - `https://pradevelopments.com.au/belmont-developments`
+  - `https://pradevelopments.com.au/belmont-apartments`
+- **4th Web 2.0:**
+  - `https://pradevelopments.com.au/belmont-4-bedroom-properties`
+  - `https://pradevelopments.com.au/belmont-5-bedroom-properties`
 
-### Guest Post Targets
-- `https://pradevelopments.com.au`
-- `https://pradevelopments.com.au/perth-turnkey-homes-developers`
-- `https://pradevelopments.com.au/perth-3-bedroom-properties`
-- `https://pradevelopments.com.au/belmont-1-bedroom-properties`
-- `https://pradevelopments.com.au/belmont-investment-properties`
+### Guest Post Targets (4 Posts)
+- **1st Guest Post:** `https://pradevelopments.com.au/perth-apartment-developers`
+- **2nd Guest Post:** `https://pradevelopments.com.au/perth-investment-properties`
+- **3rd Guest Post:** `https://pradevelopments.com.au/belmont-homes-developers`
+- **4th Guest Post:** `https://pradevelopments.com.au/belmont-investment-property-developers`
 
-### Article Submission Targets
-- `https://pradevelopments.com.au`
-- `https://pradevelopments.com.au/perth-homes`
-- `https://pradevelopments.com.au/perth-2-bedroom-properties`
-- `https://pradevelopments.com.au/belmont-4-bedroom-properties`
-- `https://pradevelopments.com.au/belmont-turnkey-homes-developers`
+### Article Submission Targets (4 Articles)
+- **1st Article Submission:** `https://pradevelopments.com.au/properties`
+- **2nd Article Submission:** `https://pradevelopments.com.au/perth-1-bedroom-properties`
+- **3rd Article Submission:** `https://pradevelopments.com.au/belmont-investment-properties`
+- **4th Article Submission:** `https://pradevelopments.com.au/belmont-3-bedroom-properties`
 
 ---
 
 ## 3. Google My Business (GMB) Link
 
-**GMB URL:** [https://www.google.com/maps?cid=2630615868250868010](https://www.google.com/maps?cid=2630615868250868010)
+- **GMB URL:** [https://www.google.com/maps?cid=2630615868250868010](https://www.google.com/maps?cid=2630615868250868010)
+- **Approved Keywords / Anchors:** Townhouse Developers Perth, property developers in belmont
 
 ---
 
