@@ -128,9 +128,9 @@ This document serves as the master data source for the Silva Travel project. It 
 
 ## 5. GMB (Google My Business) Link
 
-| Property | URL |
-| :--- | :--- |
-| Google Maps / GMB | `https://www.google.com/maps?cid=3494269107193263420` |
+| Property | URL | Approved Keywords |
+| :--- | :--- | :--- |
+| Google Maps / GMB | `https://www.google.com/maps?cid=3494269107193263420` | Best Travel Agency In Auckland, cheapest air tickets nz |
 
 ---
 
