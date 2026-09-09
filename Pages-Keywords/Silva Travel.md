@@ -8,22 +8,15 @@ This document serves as the master data source for the Silva Travel project. It 
 
 | Target URL | Approved Keywords |
 | :--- | :--- |
-| `https://silvatravel.co.nz/` | Travel Agents Auckland, Travel Agency Auckland, Best Travel Agency In Auckland |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-united-arabs` | Flights from Auckland to United Arabs |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-gold-coast` | Flights from Auckland to Gold Coast |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-adelaide` | Flights from Auckland to Adelaide |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-abu-dhabi` | Flights from Auckland to Abu Dhabi |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-thiruvananthalam` | Flights from Auckland to Thiruvananthalam |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-australia` | Flights from Auckland to Australia |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-dubai` | Flights from Auckland to Dubai |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-hyderabad` | Flights from Auckland to Hyderabad |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-mumbai` | Flights from Auckland to Mumbai |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-colombo` | Auckland to Colombo flights |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-hambantota` | Flights from Auckland to Hambantota |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-india` | cheap flights from Auckland to India |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-fiji` | cheapest flights from Auckland to Fiji |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-chennai` | flight tickets from Auckland to Chennai |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-delhi` | flights from Auckland to Delhi |
+| `https://silvatravel.co.nz/` | Travel Agents Auckland, Travel Agency Auckland, Best Travel Agency In Auckland, book cheapest air tickets nz, flight deals from auckland, cheap flights from auckland |
+| `https://silvatravel.co.nz/flights` | International Flights from Auckland |
+| `https://silvatravel.co.nz/hotels` | international hotel booking Auckland |
+| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-india` | Flights tickets From Auckland To India |
+| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-delhi` | Cheap Flights from Auckland to Delhi |
+| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-australia` | Cheap Flights tickets Auckland to Australia |
+| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-perth` | Cheap Flights tickets Auckland to Perth |
+| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-united-arabs` | Cheap Flights tickets Auckland to United Arabs |
+| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-sharjah` | International Flights from Auckland to Sharjah |
 
 ---
 
@@ -34,14 +27,14 @@ This document serves as the master data source for the Silva Travel project. It 
 | # | Target URL | Notes |
 | :--- | :--- | :--- |
 | 1 | `https://silvatravel.co.nz/` | Travel Agents Auckland |
-| 2 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-united-arabs` | Flights from Auckland to United Arabs |
-| 3 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-gold-coast` | Flights from Auckland to Gold Coast |
-| 4 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-adelaide` | Flights from Auckland to Adelaide |
-| 5 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-abu-dhabi` | Flights from Auckland to Abu Dhabi |
-| 6 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-hyderabad` | Flights from Auckland to Hyderabad |
-| 7 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-mumbai` | Flights from Auckland to Mumbai |
-| 8 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-colombo` | Auckland to Colombo flights |
-| 9 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-hambantota` | Flights from Auckland to Hambantota |
+| 2 | `https://silvatravel.co.nz/flights` | International Flights from Auckland |
+| 3 | `https://silvatravel.co.nz/hotels` | international hotel booking Auckland |
+| 4 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-india` | Flights tickets From Auckland To India |
+| 5 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-delhi` | Cheap Flights from Auckland to Delhi |
+| 6 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-australia` | Cheap Flights tickets Auckland to Australia |
+| 7 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-perth` | Cheap Flights tickets Auckland to Perth |
+| 8 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-united-arabs` | Cheap Flights tickets Auckland to United Arabs |
+| 9 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-sharjah` | International Flights from Auckland to Sharjah |
 
 ---
 
@@ -49,11 +42,10 @@ This document serves as the master data source for the Silva Travel project. It 
 
 | # | Target URL | Notes |
 | :--- | :--- | :--- |
-| 1 | `https://silvatravel.co.nz/` | Travel Agency Auckland |
-| 2 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-thiruvananthalam` | Flights from Auckland to Thiruvananthalam |
-| 3 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-adelaide` | Flights from Auckland to Adelaide |
-| 4 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-india` | cheap flights from Auckland to India |
-| 5 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-fiji` | cheapest flights from Auckland to Fiji |
+| 1 | `https://silvatravel.co.nz/hotels` | international hotel booking Auckland |
+| 2 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-sharjah` | International Flights from Auckland to Sharjah |
+| 3 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-delhi` | Cheap Flights from Auckland to Delhi |
+| 4 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-australia` | Cheap Flights tickets Auckland to Australia |
 
 ---
 
@@ -61,11 +53,10 @@ This document serves as the master data source for the Silva Travel project. It 
 
 | # | Target URL | Notes |
 | :--- | :--- | :--- |
-| 1 | `https://silvatravel.co.nz/` | Best Travel Agency In Auckland |
-| 2 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-australia` | Flights from Auckland to Australia |
-| 3 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-dubai` | Flights from Auckland to Dubai |
-| 4 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-chennai` | flight tickets from Auckland to Chennai |
-| 5 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-delhi` | flights from Auckland to Delhi |
+| 1 | `https://silvatravel.co.nz/flights` | International Flights from Auckland |
+| 2 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-india` | Flights tickets From Auckland To India |
+| 3 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-united-arabs` | Cheap Flights tickets Auckland to United Arabs |
+| 4 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-perth` | Cheap Flights tickets Auckland to Perth |
 
 ---
 
