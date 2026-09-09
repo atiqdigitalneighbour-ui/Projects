@@ -26,15 +26,14 @@ This document serves as the master data source for the Silva Travel project. It 
 
 | # | Target URL | Notes |
 | :--- | :--- | :--- |
-| 1 | `https://silvatravel.co.nz/` | Travel Agents Auckland |
-| 2 | `https://silvatravel.co.nz/flights` | International Flights from Auckland |
-| 3 | `https://silvatravel.co.nz/hotels` | international hotel booking Auckland |
-| 4 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-india` | Flights tickets From Auckland To India |
-| 5 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-delhi` | Cheap Flights from Auckland to Delhi |
-| 6 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-australia` | Cheap Flights tickets Auckland to Australia |
-| 7 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-perth` | Cheap Flights tickets Auckland to Perth |
-| 8 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-united-arabs` | Cheap Flights tickets Auckland to United Arabs |
-| 9 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-sharjah` | International Flights from Auckland to Sharjah |
+| 1 | `https://silvatravel.co.nz/flights` | International Flights from Auckland |
+| 2 | `https://silvatravel.co.nz/hotels` | international hotel booking Auckland |
+| 3 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-india` | Flights tickets From Auckland To India |
+| 4 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-delhi` | Cheap Flights from Auckland to Delhi |
+| 5 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-australia` | Cheap Flights tickets Auckland to Australia |
+| 6 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-perth` | Cheap Flights tickets Auckland to Perth |
+| 7 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-united-arabs` | Cheap Flights tickets Auckland to United Arabs |
+| 8 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-sharjah` | International Flights from Auckland to Sharjah |
 
 ---
 
