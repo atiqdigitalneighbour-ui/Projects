@@ -8,12 +8,21 @@ This document serves as the master data source for the Window Tinting project. I
 
 | Target URL | Approved Keywords |
 | :--- | :--- |
-| `https://window-tinting.co.nz/` | Best Window Tinting Films, Window Tint Film, Window Film Services, Window Tinting Services, Commercial Window Tinting nz, best tinted windows, window tint christchurch, window tinting queenstown |
-| `https://window-tinting.co.nz/window-tint-film/` | Best Window Tint Film nz |
-| `https://window-tinting.co.nz/security/` | Best Window Privacy Film nz |
-| `https://window-tinting.co.nz/window-tinting-alexandra/` | Window Tinting Alexandra, Window Film Alexandra |
-| `https://window-tinting.co.nz/window-frosting/` | Best Window Frosting Film nz |
+| `https://window-tinting.co.nz/` | Best Window Tinting Films, Window Tint Film |
+| `https://window-tinting.co.nz/tinted-windows/` | Best Tinted Windows |
+| `https://window-tinting.co.nz/window-tint-film/` | Best Window Tint Film |
+| `https://window-tinting.co.nz/window-frosting/` | Best Window Frosting Film |
+| `https://window-tinting.co.nz/security/` | Best Window Privacy Film |
+| `https://window-tinting.co.nz/residential/` | Residential Window Tinting |
+| `https://window-tinting.co.nz/commercial/` | Commercial Window Tinting |
+| `https://window-tinting.co.nz/services/` | Window Tinting Services, Window Film Services |
+| `https://window-tinting.co.nz/window-tinting-christchurch/` | Window Tint Christchurch, Window Film Christchurch |
 | `https://window-tinting.co.nz/window-tinting-ashburton/` | Window Tinting Ashburton, Window Film Ashburton |
+| `https://window-tinting.co.nz/window-tinting-timaru/` | Window Tinting Timaru, Window Film Timaru |
+| `https://window-tinting.co.nz/window-tinting-oamaru/` | Window Tinting Oamaru, Window Film Oamaru |
+| `https://window-tinting.co.nz/window-tinting-queenstown/` | Window Tinting Queenstown, Window Film Queenstown |
+| `https://window-tinting.co.nz/window-tinting-wanaka/` | Window Tinting Wanaka, Window Film Wanaka |
+| `https://window-tinting.co.nz/window-tinting-alexandra/` | Window Tinting Alexandra, Window Film Alexandra |
 
 ---
 
