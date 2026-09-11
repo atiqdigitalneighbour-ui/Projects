@@ -9,14 +9,14 @@ This document serves as the master data source for the VP Batteries project. It 
 | Target URL | Approved Keywords |
 | :--- | :--- |
 | `https://vpbatteries.co.nz/` | motorcycle batteries nz, car battery christchurch, cheap car batteries nz, car battery installation nz, non diesel vehicles batteries christchurch, best american automotive batteries nz |
-| `https://vpbatteries.co.nz/product-category/american-automotive/` | american automotive batteries christchurch, american automotive batteries nz |
-| `https://vpbatteries.co.nz/european/` | european batteries, european vehicles batteries christchurch, european batteries christchurch nz |
-| `https://vpbatteries.co.nz/product-category/marine/` | marine battery, marine batteries christchurch, marine batteries nz |
-| `https://vpbatteries.co.nz/product-category/heavy-duty-truck-commercial/` | truck batteries nz, commercial batteries christchurch, commercial vehicle batteries christchurch |
-| `https://vpbatteries.co.nz/stop-start-agm-and-efb/` | agm batteries christchurch, agm batteries |
-| `https://vpbatteries.co.nz/product-category/deep-cycle/` | deep cycle batteries, deep cycle batteries christchurch, deep cycle batteries christchurch nz |
-| `https://vpbatteries.co.nz/mobile-battery-services/` | mobile battery service christchurch, car battery installation nz, mobile car battery replacement nz |
-| `https://vpbatteries.co.nz/product-category/accessories/` | vehicle accessories nz, vehicle accessories |
+| `https://vpbatteries.co.nz/product-category/american-automotive/` | american automotive batteries nz |
+| `https://vpbatteries.co.nz/mobile-battery-services/` | mobile car battery replacement nz |
+| `https://vpbatteries.co.nz/product-category/accessories/` | vehicle accessories nz |
+| `https://vpbatteries.co.nz/product-category/heavy-duty-truck-commercial/` | commercial vehicle batteries christchurch |
+| `https://vpbatteries.co.nz/product-category/deep-cycle/` | deep cycle batteries christchurch nz |
+| `https://vpbatteries.co.nz/european/` | european batteries christchurch nz |
+| `https://vpbatteries.co.nz/product-category/marine/` | marine batteries nz |
+| `https://vpbatteries.co.nz/stop-start-agm-and-efb/` | agm batteries christchurch nz |
 
 ---
 
@@ -26,35 +26,36 @@ This document serves as the master data source for the VP Batteries project. It 
 
 ### Web 2.0 Targets (4 Properties)
 - **1st Web 2.0:**
-  - `https://vpbatteries.co.nz/stop-start-agm-and-efb/` — agm batteries christchurch
-  - `https://vpbatteries.co.nz/product-category/deep-cycle/` — deep cycle batteries christchurch nz
-- **2nd Web 2.0:**
   - `https://vpbatteries.co.nz/product-category/american-automotive/` — american automotive batteries nz
-  - `https://vpbatteries.co.nz/european/` — european batteries nz
-- **3rd Web 2.0:**
   - `https://vpbatteries.co.nz/mobile-battery-services/` — mobile car battery replacement nz
-  - `https://vpbatteries.co.nz/product-category/marine/` — marine batteries nz
-- **4th Web 2.0:**
-  - `https://vpbatteries.co.nz/product-category/heavy-duty-truck-commercial/` — commercial vehicle batteries christchurch
+- **2nd Web 2.0:**
   - `https://vpbatteries.co.nz/product-category/accessories/` — vehicle accessories nz
+  - `https://vpbatteries.co.nz/product-category/heavy-duty-truck-commercial/` — commercial vehicle batteries christchurch
+- **3rd Web 2.0:**
+  - `https://vpbatteries.co.nz/product-category/deep-cycle/` — deep cycle batteries christchurch nz
+  - `https://vpbatteries.co.nz/european/` — european batteries christchurch nz
+- **4th Web 2.0:**
+  - `https://vpbatteries.co.nz/product-category/marine/` — marine batteries nz
+  - `https://vpbatteries.co.nz/stop-start-agm-and-efb/` — agm batteries christchurch nz
 
 ### Guest Post Targets (4 Posts)
-- **1st Guest Post:** `https://vpbatteries.co.nz/stop-start-agm-and-efb/` — agm batteries
-- **2nd Guest Post:** `https://vpbatteries.co.nz/european/` — european batteries Christchurch nz
-- **3rd Guest Post:** `https://vpbatteries.co.nz/product-category/heavy-duty-truck-commercial/` — truck batteries nz
-- **4th Guest Post:** `https://vpbatteries.co.nz/mobile-battery-services/` — car battery installation nz
+- **1st Guest Post:** `https://vpbatteries.co.nz/product-category/deep-cycle/` — deep cycle batteries christchurch nz
+- **2nd Guest Post:** `https://vpbatteries.co.nz/product-category/american-automotive/` — american automotive batteries nz
+- **3rd Guest Post:** `https://vpbatteries.co.nz/product-category/accessories/` — vehicle accessories nz
+- **4th Guest Post:** `https://vpbatteries.co.nz/product-category/marine/` — marine batteries nz
 
 ### Article Submission Targets (4 Articles)
-- **1st Article:** `https://vpbatteries.co.nz/product-category/deep-cycle/` — deep cycle batteries christchurch nz
-- **2nd Article:** `https://vpbatteries.co.nz/product-category/american-automotive/` — american automotive batteries
-- **3rd Article:** `https://vpbatteries.co.nz/product-category/accessories/` — vehicle accessories
-- **4th Article:** `https://vpbatteries.co.nz/product-category/marine/` — marine battery nz
+- **1st Article:** `https://vpbatteries.co.nz/stop-start-agm-and-efb/` — agm batteries christchurch nz
+- **2nd Article:** `https://vpbatteries.co.nz/european/` — european batteries christchurch nz
+- **3rd Article:** `https://vpbatteries.co.nz/product-category/heavy-duty-truck-commercial/` — commercial vehicle batteries christchurch
+- **4th Article:** `https://vpbatteries.co.nz/mobile-battery-services/` — mobile car battery replacement nz
 
 ---
 
 ## 3. Google My Business (GMB) Link
 
-**GMB URL:** [https://www.google.com/maps?cid=18125822198927760720](https://www.google.com/maps?cid=18125822198927760720)
+- **GMB URL:** [https://www.google.com/maps?cid=18125822198927760720](https://www.google.com/maps?cid=18125822198927760720)
+- **Approved Keywords / Anchors:** cheap car batteries near me, car battery installation near me, american automotive batteries nz, marine batteries nz *(use these keywords for GMB interlinking, 1 keyword for 1 GMB inter link)*
 
 ---
 
