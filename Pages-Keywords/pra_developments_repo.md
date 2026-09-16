@@ -32,36 +32,36 @@ This document serves as the master data source for the Pra Developments project.
 
 ### Web 2.0 Targets (4 Properties)
 - **1st Web 2.0:**
-  - `https://pradevelopments.com.au/perth-developments`
-  - `https://pradevelopments.com.au/perth-apartments`
-- **2nd Web 2.0:**
   - `https://pradevelopments.com.au/perth-5-bedroom-properties`
+  - `https://pradevelopments.com.au/perth-developments`
+- **2nd Web 2.0:**
   - `https://pradevelopments.com.au/perth-3-bedroom-properties`
+  - `https://pradevelopments.com.au/perth-apartments`
 - **3rd Web 2.0:**
-  - `https://pradevelopments.com.au/belmont-developments`
+  - `https://pradevelopments.com.au/belmont-4-bedroom-properties`
   - `https://pradevelopments.com.au/belmont-apartments`
 - **4th Web 2.0:**
-  - `https://pradevelopments.com.au/belmont-4-bedroom-properties`
+  - `https://pradevelopments.com.au/belmont-developments`
   - `https://pradevelopments.com.au/belmont-5-bedroom-properties`
 
 ### Guest Post Targets (4 Posts)
-- **1st Guest Post:** `https://pradevelopments.com.au/perth-apartment-developers`
-- **2nd Guest Post:** `https://pradevelopments.com.au/perth-investment-properties`
-- **3rd Guest Post:** `https://pradevelopments.com.au/belmont-homes-developers`
-- **4th Guest Post:** `https://pradevelopments.com.au/belmont-investment-property-developers`
+- **1st Guest Post:** `https://pradevelopments.com.au/properties`
+- **2nd Guest Post:** `https://pradevelopments.com.au/perth-1-bedroom-properties`
+- **3rd Guest Post:** `https://pradevelopments.com.au/belmont-investment-properties`
+- **4th Guest Post:** `https://pradevelopments.com.au/belmont-3-bedroom-properties`
 
 ### Article Submission Targets (4 Articles)
-- **1st Article Submission:** `https://pradevelopments.com.au/properties`
-- **2nd Article Submission:** `https://pradevelopments.com.au/perth-1-bedroom-properties`
-- **3rd Article Submission:** `https://pradevelopments.com.au/belmont-investment-properties`
-- **4th Article Submission:** `https://pradevelopments.com.au/belmont-3-bedroom-properties`
+- **1st Article Submission:** `https://pradevelopments.com.au/perth-apartment-developers`
+- **2nd Article Submission:** `https://pradevelopments.com.au/perth-investment-properties`
+- **3rd Article Submission:** `https://pradevelopments.com.au/belmont-homes-developers`
+- **4th Article Submission:** `https://pradevelopments.com.au/belmont-investment-property-developers`
 
 ---
 
 ## 3. Google My Business (GMB) Link
 
 - **GMB URL:** [https://www.google.com/maps?cid=2630615868250868010](https://www.google.com/maps?cid=2630615868250868010)
-- **Approved Keywords / Anchors:** Townhouse Developers Perth, property developers in belmont
+- **Approved Keywords / Anchors:** Best Home Developers Perth, Townhouse Developers Perth, property developers in belmont, Property Developments near me
 
 ---
 
