@@ -8,15 +8,15 @@ This document serves as the master data source for the PVC Fencing Sydney projec
 
 | Target URL | Approved Keywords |
 | :--- | :--- |
-| `https://www.pvcfencingsydney.com.au/` | PVC Fencing Warehouse Sydney, PVC Fencing Sydney, Fencing Contractors Sydney, Fence Panels Sydney, PVC Fencing Products Sydney, fencing supplies sydney, pvc railing fence Sydney |
-| `https://www.pvcfencingsydney.com.au/pvc-gates` | Hampton Style PVC Gates Sydney |
-| `https://www.pvcfencingsydney.com.au/products/victoria-picket-sliding-gates` | Picket Style PVC Sliding Gate Sydney |
-| `https://www.pvcfencingsydney.com.au/products/julia-railing-double-gates` | PVC Railing Double Gate Sydney |
-| `https://www.pvcfencingsydney.com.au/products/caroline-semi-privacy-single-gate` | Semi Privacy PVC Single Gate Sydney |
-| `https://www.pvcfencingsydney.com.au/products/matilda-full-privacy-fence` | Full Privacy PVC Fence Sydney |
-| `https://www.pvcfencingsydney.com.au/products/caroline-semi-privacy-fences` | Semi Privacy Pvc Fence Sydney |
+| `https://www.pvcfencingsydney.com.au/` | Fencing Contractors Sydney, Fence Panels Sydney, PVC Fencing Products Sydney, fencing supplies sydney, pvc railing fence Sydney |
+| `https://www.pvcfencingsydney.com.au/products/victoria-picket-single-gate` | Picket Style PVC Single Gate Sydney |
+| `https://www.pvcfencingsydney.com.au/products/matilda-full-privacy-sliding-gates` | Full Privacy PVC Sliding Gate Sydney |
 | `https://www.pvcfencingsydney.com.au/pvc-fencing` | Hampton Style PVC Fence Sydney |
-| `https://www.pvcfencingsydney.com.au/products/victoria-picket-fence` | Picket Style PVC Fence Sydney |
+| `https://www.pvcfencingsydney.com.au/products/caroline-semi-privacy-fences` | semi privacy pvc fence Sydney |
+| `https://www.pvcfencingsydney.com.au/pvc-gates` | Hampton Style PVC Gates Sydney |
+| `https://www.pvcfencingsydney.com.au/products/julia-railing-fence` | PVC Railing Fence Sydney |
+| `https://www.pvcfencingsydney.com.au/products/caroline-semi-privacy-double-gates` | Semi Privacy PVC Double Gate Sydney |
+| `https://www.pvcfencingsydney.com.au/products/matilda-full-privacy-fence` | Full Privacy PVC Fence Sydney |
 
 ---
 
@@ -25,25 +25,25 @@ This document serves as the master data source for the PVC Fencing Sydney projec
 ### 2.1 Web 2.0 Target Pages
 
 - **1st Web 2.0:**
-  - `https://www.pvcfencingsydney.com.au/pvc-gates`
-  - `https://www.pvcfencingsydney.com.au/products/victoria-picket-sliding-gates`
+  - `https://www.pvcfencingsydney.com.au/products/victoria-picket-single-gate`
+  - `https://www.pvcfencingsydney.com.au/products/matilda-full-privacy-sliding-gates`
 - **2nd Web 2.0:**
-  - `https://www.pvcfencingsydney.com.au/products/julia-railing-double-gates`
-  - `https://www.pvcfencingsydney.com.au/products/caroline-semi-privacy-single-gate`
+  - `https://www.pvcfencingsydney.com.au/pvc-fencing`
+  - `https://www.pvcfencingsydney.com.au/products/caroline-semi-privacy-fences`
 
 ---
 
 ### 2.2 Guest Post Target Pages
 
-- **1st Guest Post:** `https://www.pvcfencingsydney.com.au/products/matilda-full-privacy-fence`
-- **2nd Guest Post:** `https://www.pvcfencingsydney.com.au/products/caroline-semi-privacy-fences`
+- **1st Guest Post:** `https://www.pvcfencingsydney.com.au/pvc-gates`
+- **2nd Guest Post:** `https://www.pvcfencingsydney.com.au/products/julia-railing-fence`
 
 ---
 
 ### 2.3 Article Submission Target Pages
 
-- **1st Article Submission:** `https://www.pvcfencingsydney.com.au/pvc-fencing`
-- **2nd Article Submission:** `https://www.pvcfencingsydney.com.au/products/victoria-picket-fence`
+- **1st Article Submission:** `https://www.pvcfencingsydney.com.au/products/caroline-semi-privacy-double-gates`
+- **2nd Article Submission:** `https://www.pvcfencingsydney.com.au/products/matilda-full-privacy-fence`
 
 ---
 
@@ -110,7 +110,7 @@ This document serves as the master data source for the PVC Fencing Sydney projec
 
 | Property | URL | Approved Keywords |
 | :--- | :--- | :--- |
-| Google Maps / GMB | `https://www.google.com/maps?cid=15732812723531130146` | Fencing Contractors Sydney, PVC Fencing Warehouse Sydney |
+| Google Maps / GMB | `https://www.google.com/maps?cid=15732812723531130146` | Fence Panels Sydney, PVC Fencing Products Sydney |
 
 ---
 
