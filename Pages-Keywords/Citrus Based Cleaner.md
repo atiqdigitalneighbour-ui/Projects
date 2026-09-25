@@ -9,12 +9,14 @@ This document serves as the master data source for the Citrus Based Cleaner proj
 | Target URL | Approved Keywords |
 | :--- | :--- |
 | `https://www.citrusbasedcleaner.co.nz/` | multi purpose cleaner nz, Natural Cleaning Products, Eco Friendly Cleaning Products, All Purpose Citrus Based Cleaning Products, NZ Made Cleaning Products, best citrus cleaning products nz |
-| `https://www.citrusbasedcleaner.co.nz/product/chain-degreaser/` | NZ Made Chain Degreaser, Biodegradable Chain Degreaser nz |
+| `https://www.citrusbasedcleaner.co.nz/product/spray-bottles/` | cleaning spray bottles |
+| `https://www.citrusbasedcleaner.co.nz/product/replacement-triggers-for-spray-bottle/` | trigger for spray bottle |
+| `https://www.citrusbasedcleaner.co.nz/product-category/citrus-based-cleaner/` | biodegradable citrus cleaner |
+| `https://www.citrusbasedcleaner.co.nz/product/chain-degreaser/` | NZ Made Chain Degreaser |
+| `https://www.citrusbasedcleaner.co.nz/product/large-doodle-bug/` | Doodlebug Cleaning Pad |
+| `https://www.citrusbasedcleaner.co.nz/product/new-citrus-blast-concentrate/` | biodegradable citrus based deodoriser |
+| `https://www.citrusbasedcleaner.co.nz/product-category/accessories-replacement/` | cleaning accessories NZ |
 | `https://www.citrusbasedcleaner.co.nz/product/ciitrus-based-cleaner/` | Household Citrus Cleaner Concentrate |
-| `https://www.citrusbasedcleaner.co.nz/product/large-doodle-bug/` | Doodlebug Cleaning Pad nz |
-| `https://www.citrusbasedcleaner.co.nz/product/new-citrus-blast-concentrate/` | Biodegradable Citrus Based Deodoriser nz |
-| `https://www.citrusbasedcleaner.co.nz/product/replacement-triggers-for-spray-bottle/` | Trigger for Spray Bottle nz |
-| `https://www.citrusbasedcleaner.co.nz/shop/` | Best Cleaning Products NZ |
 
 ---
 
@@ -24,8 +26,8 @@ This document serves as the master data source for the Citrus Based Cleaner proj
 
 | # | Target Pages (per property) | Primary Keywords |
 | :--- | :--- | :--- |
-| 1 | `https://www.citrusbasedcleaner.co.nz/product/chain-degreaser/` + `https://www.citrusbasedcleaner.co.nz/product/ciitrus-based-cleaner/` | NZ Made Chain Degreaser, Household Citrus Cleaner Concentrate |
-| 2 | `https://www.citrusbasedcleaner.co.nz/product/large-doodle-bug/` + `https://www.citrusbasedcleaner.co.nz/product/new-citrus-blast-concentrate/` | Doodlebug Cleaning Pad nz, Biodegradable Citrus Based Deodoriser nz |
+| 1 | `https://www.citrusbasedcleaner.co.nz/product/spray-bottles/` + `https://www.citrusbasedcleaner.co.nz/product/replacement-triggers-for-spray-bottle/` | cleaning spray bottles, trigger for spray bottle |
+| 2 | `https://www.citrusbasedcleaner.co.nz/product-category/citrus-based-cleaner/` + `https://www.citrusbasedcleaner.co.nz/product/chain-degreaser/` | biodegradable citrus cleaner, NZ Made Chain Degreaser |
 
 ---
 
@@ -33,8 +35,8 @@ This document serves as the master data source for the Citrus Based Cleaner proj
 
 | # | Target URL | Primary Keyword |
 | :--- | :--- | :--- |
-| 1 | `https://www.citrusbasedcleaner.co.nz/product/chain-degreaser/` | NZ Made Chain Degreaser |
-| 2 | `https://www.citrusbasedcleaner.co.nz/product/replacement-triggers-for-spray-bottle/` | Trigger for Spray Bottle nz |
+| 1 | `https://www.citrusbasedcleaner.co.nz/product/large-doodle-bug/` | Doodlebug Cleaning Pad |
+| 2 | `https://www.citrusbasedcleaner.co.nz/product/new-citrus-blast-concentrate/` | biodegradable citrus based deodoriser |
 
 ---
 
@@ -42,8 +44,8 @@ This document serves as the master data source for the Citrus Based Cleaner proj
 
 | # | Target URL | Primary Keyword |
 | :--- | :--- | :--- |
-| 1 | `https://www.citrusbasedcleaner.co.nz/product/large-doodle-bug/` | Doodlebug Cleaning Pad nz |
-| 2 | `https://www.citrusbasedcleaner.co.nz/shop/` | Best Cleaning Products NZ |
+| 1 | `https://www.citrusbasedcleaner.co.nz/product-category/accessories-replacement/` | cleaning accessories NZ |
+| 2 | `https://www.citrusbasedcleaner.co.nz/product/ciitrus-based-cleaner/` | Household Citrus Cleaner Concentrate |
 
 ---
 
@@ -110,4 +112,4 @@ This document serves as the master data source for the Citrus Based Cleaner proj
 
 | Type | Link | Approved Keywords |
 | :--- | :--- | :--- |
-| GMB Listing | `https://www.google.com/maps?cid=995498357254667210` | best cleaning products Christchurch, bike chain degreaser Christchurch |
+| GMB Listing | `https://www.google.com/maps?cid=995498357254667210` | best cleaning products near me, bike chain degreaser Christchurch |
