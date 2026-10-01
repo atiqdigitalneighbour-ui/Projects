@@ -24,19 +24,19 @@ This document serves as the master data source for the Fencing Industries projec
 
 ### Web 2.0 Targets (2 Properties)
 - **1st Web 2.0:**
-  - `https://www.fencingindustries.co.nz/products-services/panel-fencing`
-  - `https://www.fencingindustries.co.nz/products-services/security-fencing`
+  - `https://www.fencingindustries.co.nz/products-services/gates`
+  - `https://www.fencingindustries.co.nz/products-services/timber-post-rail`
 - **2nd Web 2.0:**
-  - `https://www.fencingindustries.co.nz/sectors/educational`
-  - `https://www.fencingindustries.co.nz/products-services/bollards-safety-rails`
+  - `https://www.fencingindustries.co.nz/sectors/high-security-military`
+  - `https://www.fencingindustries.co.nz/products-services/sports-fencing`
 
 ### Guest Post Targets (2 Posts)
-- **1st Guest Post:** `https://www.fencingindustries.co.nz/products-services/gates`
-- **2nd Guest Post:** `https://www.fencingindustries.co.nz/products-services/timber-post-rail`
+- **1st Guest Post:** `https://www.fencingindustries.co.nz/products-services/panel-fencing`
+- **2nd Guest Post:** `https://www.fencingindustries.co.nz/products-services/security-fencing`
 
 ### Article Submission Targets (2 Articles)
-- **1st Article:** `https://www.fencingindustries.co.nz/sectors/high-security-military`
-- **2nd Article:** `https://www.fencingindustries.co.nz/products-services/sports-fencing`
+- **1st Article:** `https://www.fencingindustries.co.nz/sectors/educational`
+- **2nd Article:** `https://www.fencingindustries.co.nz/products-services/bollards-safety-rails`
 
 ---
 
