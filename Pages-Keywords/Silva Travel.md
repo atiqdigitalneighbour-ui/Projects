@@ -8,15 +8,15 @@ This document serves as the master data source for the Silva Travel project. It 
 
 | Target URL | Approved Keywords |
 | :--- | :--- |
-| `https://silvatravel.co.nz/` | Travel Agents Auckland, Travel Agency Auckland, Best Travel Agency In Auckland, book cheapest air tickets nz, flight deals from auckland, cheap flights from auckland |
-| `https://silvatravel.co.nz/flights` | International Flights from Auckland |
-| `https://silvatravel.co.nz/hotels` | international hotel booking Auckland |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-india` | Flights tickets From Auckland To India |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-delhi` | Cheap Flights from Auckland to Delhi |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-australia` | Cheap Flights tickets Auckland to Australia |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-perth` | Cheap Flights tickets Auckland to Perth |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-united-arabs` | Cheap Flights tickets Auckland to United Arabs |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-sharjah` | International Flights from Auckland to Sharjah |
+| `https://silvatravel.co.nz/` | Travel Agency Auckland, Best Travel Agency In Auckland, book cheapest air tickets nz, flight deals from auckland, cheap flights from auckland |
+| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-thiruvananthapuram` | flights from auckland to thiruvananthapuram |
+| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-sri-lanka` | flights from auckland to sri lanka |
+| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-kochi` | flights from auckland to kochi |
+| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-delhi` | flights from auckland to delhi |
+| `https://silvatravel.co.nz/flights` | cheap flights from auckland |
+| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-fiji` | flights from auckland to fiji |
+| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-melbourne` | flight from auckland to melbourne |
+| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-brisbane` | flights from auckland to brisbane |
 
 ---
 
@@ -26,14 +26,14 @@ This document serves as the master data source for the Silva Travel project. It 
 
 | # | Target URL | Notes |
 | :--- | :--- | :--- |
-| 1 | `https://silvatravel.co.nz/flights` | International Flights from Auckland |
-| 2 | `https://silvatravel.co.nz/hotels` | international hotel booking Auckland |
-| 3 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-india` | Flights tickets From Auckland To India |
-| 4 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-delhi` | Cheap Flights from Auckland to Delhi |
-| 5 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-australia` | Cheap Flights tickets Auckland to Australia |
-| 6 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-perth` | Cheap Flights tickets Auckland to Perth |
-| 7 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-united-arabs` | Cheap Flights tickets Auckland to United Arabs |
-| 8 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-sharjah` | International Flights from Auckland to Sharjah |
+| 1 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-thiruvananthapuram` | flights from auckland to thiruvananthapuram |
+| 2 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-sri-lanka` | flights from auckland to sri lanka |
+| 3 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-kochi` | flights from auckland to kochi |
+| 4 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-delhi` | flights from auckland to delhi |
+| 5 | `https://silvatravel.co.nz/flights` | cheap flights from auckland |
+| 6 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-fiji` | flights from auckland to fiji |
+| 7 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-melbourne` | flight from auckland to melbourne |
+| 8 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-brisbane` | flights from auckland to brisbane |
 
 ---
 
@@ -41,10 +41,10 @@ This document serves as the master data source for the Silva Travel project. It 
 
 | # | Target URL | Notes |
 | :--- | :--- | :--- |
-| 1 | `https://silvatravel.co.nz/hotels` | international hotel booking Auckland |
-| 2 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-sharjah` | International Flights from Auckland to Sharjah |
-| 3 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-delhi` | Cheap Flights from Auckland to Delhi |
-| 4 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-australia` | Cheap Flights tickets Auckland to Australia |
+| 1 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-thiruvananthapuram` | flights from auckland to thiruvananthapuram |
+| 2 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-kochi` | flights from auckland to kochi |
+| 3 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-fiji` | flights from auckland to fiji |
+| 4 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-melbourne` | flight from auckland to melbourne |
 
 ---
 
@@ -52,10 +52,10 @@ This document serves as the master data source for the Silva Travel project. It 
 
 | # | Target URL | Notes |
 | :--- | :--- | :--- |
-| 1 | `https://silvatravel.co.nz/flights` | International Flights from Auckland |
-| 2 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-india` | Flights tickets From Auckland To India |
-| 3 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-united-arabs` | Cheap Flights tickets Auckland to United Arabs |
-| 4 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-perth` | Cheap Flights tickets Auckland to Perth |
+| 1 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-sri-lanka` | flights from auckland to sri lanka |
+| 2 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-delhi` | flights from auckland to delhi |
+| 3 | `https://silvatravel.co.nz/flights` | cheap flights from auckland |
+| 4 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-brisbane` | flights from auckland to brisbane |
 
 ---
 
@@ -130,7 +130,7 @@ This document serves as the master data source for the Silva Travel project. It 
 
 | Property | URL | Approved Keywords |
 | :--- | :--- | :--- |
-| Google Maps / GMB | `https://www.google.com/maps?cid=3494269107193263420` | Best Travel Agency In Auckland, cheapest air tickets nz |
+| Google Maps / GMB | `https://www.google.com/maps?cid=3494269107193263420` | travel agency auckland, travel agents near me, best travel agents auckland, cheap flights auckland |
 
 ---
 
