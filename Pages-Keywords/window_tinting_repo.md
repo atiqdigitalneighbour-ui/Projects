@@ -8,14 +8,11 @@ This document serves as the master data source for the Window Tinting project. I
 
 | Target URL | Approved Keywords |
 | :--- | :--- |
-| `https://window-tinting.co.nz/` | Tinted Windows nz, window film services nz, window tinting services nz, commercial window tinting nz |
-| `https://window-tinting.co.nz/tinted-windows/` | Best Tinted Windows nz |
-| `https://window-tinting.co.nz/window-tinting-ashburton/` | Window Film Ashburton |
-| `https://window-tinting.co.nz/security/` | Best Window Privacy Film nz |
-| `https://window-tinting.co.nz/window-tinting-queenstown/` | Window Film Queenstown |
-| `https://window-tinting.co.nz/window-tinting-christchurch/` | Window Film Christchurch nz |
-| `https://window-tinting.co.nz/window-frosting/` | Best Window Frosting Film nz |
-| `https://window-tinting.co.nz/window-tinting-oamaru/` | Window Film Oamaru nz |
+| `https://window-tinting.co.nz/` | window film services, window tinting wanaka, window tinting services nz, best window privacy film |
+| `https://window-tinting.co.nz/residential/` | Residential Window Tinting |
+| `https://window-tinting.co.nz/commercial/` | Commercial Window Tinting |
+| `https://window-tinting.co.nz/window-tint-film/` | window tint film |
+| `https://window-tinting.co.nz/window-tinting-christchurch/` | Window Film Christchurch |
 
 ---
 
@@ -25,26 +22,26 @@ This document serves as the master data source for the Window Tinting project. I
 
 ### Web 2.0 Targets
 - **1st Web 2.0:**
-  - `https://window-tinting.co.nz/tinted-windows/`
-  - `https://window-tinting.co.nz/window-tinting-ashburton/`
+  - `https://window-tinting.co.nz/residential/`
+  - `https://window-tinting.co.nz/commercial/`
 - **2nd Web 2.0:**
-  - `https://window-tinting.co.nz/security/`
-  - `https://window-tinting.co.nz/window-tinting-queenstown/`
+  - `https://window-tinting.co.nz/window-tint-film/`
+  - `https://window-tinting.co.nz/window-tinting-christchurch/`
 
 ### Guest Post Targets
-- **1st Guest Post:** `https://window-tinting.co.nz/window-tinting-christchurch/`
-- **2nd Guest Post:** `https://window-tinting.co.nz/window-frosting/`
+- **1st Guest Post:** `https://window-tinting.co.nz/window-tint-film/`
+- **2nd Guest Post:** `https://window-tinting.co.nz/window-tinting-christchurch/`
 
 ### Article Submission Targets
-- **1st Article:** `https://window-tinting.co.nz/tinted-windows/`
-- **2nd Article:** `https://window-tinting.co.nz/window-tinting-oamaru/`
+- **1st Article:** `https://window-tinting.co.nz/residential/`
+- **2nd Article:** `https://window-tinting.co.nz/commercial/`
 
 ---
 
 ## 3. Google My Business (GMB) Link
 
 - **GMB URL:** [https://maps.app.goo.gl/RwLC7kxCth7TfF179](https://maps.app.goo.gl/RwLC7kxCth7TfF179)
-- **Approved Keywords / Anchors:** commercial window tinting near me, window frosting christchurch
+- **Approved Keywords / Anchors:** residential window tinting near me, window tint services christchurch
 
 ---
 
