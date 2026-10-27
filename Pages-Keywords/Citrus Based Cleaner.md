@@ -22,8 +22,8 @@ This document serves as the master data source for the Citrus Based Cleaner proj
 
 | # | Target Pages (per property) | Primary Keywords |
 | :--- | :--- | :--- |
-| 1 | `https://www.citrusbasedcleaner.co.nz/product/spray-bottles/` + `https://www.citrusbasedcleaner.co.nz/product/replacement-triggers-for-spray-bottle/` | cleaning spray bottles, trigger for spray bottle |
-| 2 | `https://www.citrusbasedcleaner.co.nz/product-category/citrus-based-cleaner/` + `https://www.citrusbasedcleaner.co.nz/product/chain-degreaser/` | biodegradable citrus cleaner, NZ Made Chain Degreaser |
+| 1 | `https://www.citrusbasedcleaner.co.nz/product/large-doodle-bug/` + `https://www.citrusbasedcleaner.co.nz/product-category/accessories-replacement/` | Doodlebug Cleaning Pad, Cleaning accessories NZ |
+| 2 | `https://www.citrusbasedcleaner.co.nz/product/new-citrus-blast-concentrate/` + `https://www.citrusbasedcleaner.co.nz/product-category/citrus-based-cleaner/` | Biodegradable Citrus Based Deodoriser, multi purpose cleaner |
 
 ---
 
