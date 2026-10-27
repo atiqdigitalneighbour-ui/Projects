@@ -8,15 +8,11 @@ This document serves as the master data source for the Citrus Based Cleaner proj
 
 | Target URL | Approved Keywords |
 | :--- | :--- |
-| `https://www.citrusbasedcleaner.co.nz/` | multi purpose cleaner nz, Natural Cleaning Products, Eco Friendly Cleaning Products, All Purpose Citrus Based Cleaning Products, NZ Made Cleaning Products, best citrus cleaning products nz |
-| `https://www.citrusbasedcleaner.co.nz/product/spray-bottles/` | cleaning spray bottles |
-| `https://www.citrusbasedcleaner.co.nz/product/replacement-triggers-for-spray-bottle/` | trigger for spray bottle |
-| `https://www.citrusbasedcleaner.co.nz/product-category/citrus-based-cleaner/` | biodegradable citrus cleaner |
-| `https://www.citrusbasedcleaner.co.nz/product/chain-degreaser/` | NZ Made Chain Degreaser |
+| `https://www.citrusbasedcleaner.co.nz/` | Eco Friendly Cleaning Products, All Purpose Citrus Based Cleaning Products, NZ Made Cleaning Products, best citrus cleaning products nz |
 | `https://www.citrusbasedcleaner.co.nz/product/large-doodle-bug/` | Doodlebug Cleaning Pad |
-| `https://www.citrusbasedcleaner.co.nz/product/new-citrus-blast-concentrate/` | biodegradable citrus based deodoriser |
-| `https://www.citrusbasedcleaner.co.nz/product-category/accessories-replacement/` | cleaning accessories NZ |
-| `https://www.citrusbasedcleaner.co.nz/product/ciitrus-based-cleaner/` | Household Citrus Cleaner Concentrate |
+| `https://www.citrusbasedcleaner.co.nz/product-category/accessories-replacement/` | Cleaning accessories NZ |
+| `https://www.citrusbasedcleaner.co.nz/product/new-citrus-blast-concentrate/` | Biodegradable Citrus Based Deodoriser |
+| `https://www.citrusbasedcleaner.co.nz/product-category/citrus-based-cleaner/` | multi purpose cleaner |
 
 ---
 
@@ -36,7 +32,7 @@ This document serves as the master data source for the Citrus Based Cleaner proj
 | # | Target URL | Primary Keyword |
 | :--- | :--- | :--- |
 | 1 | `https://www.citrusbasedcleaner.co.nz/product/large-doodle-bug/` | Doodlebug Cleaning Pad |
-| 2 | `https://www.citrusbasedcleaner.co.nz/product/new-citrus-blast-concentrate/` | biodegradable citrus based deodoriser |
+| 2 | `https://www.citrusbasedcleaner.co.nz/product-category/accessories-replacement/` | Cleaning accessories NZ |
 
 ---
 
@@ -44,8 +40,8 @@ This document serves as the master data source for the Citrus Based Cleaner proj
 
 | # | Target URL | Primary Keyword |
 | :--- | :--- | :--- |
-| 1 | `https://www.citrusbasedcleaner.co.nz/product-category/accessories-replacement/` | cleaning accessories NZ |
-| 2 | `https://www.citrusbasedcleaner.co.nz/product/ciitrus-based-cleaner/` | Household Citrus Cleaner Concentrate |
+| 1 | `https://www.citrusbasedcleaner.co.nz/product/new-citrus-blast-concentrate/` | Biodegradable Citrus Based Deodoriser |
+| 2 | `https://www.citrusbasedcleaner.co.nz/product-category/citrus-based-cleaner/` | multi purpose cleaner |
 
 ---
 
