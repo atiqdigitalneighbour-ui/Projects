@@ -8,15 +8,11 @@ This document serves as the master data source for the Fencing Industries projec
 
 | Target URL | Approved Keywords |
 | :--- | :--- |
-| `https://www.fencingindustries.co.nz` | best fence Contractors Canterbury, fencing installers, fencing services nz, fencing services christchurch, fence contractors nz, Boundary Fence Canterbuty, Commercial Fencing nz |
-| `https://www.fencingindustries.co.nz/products-services/panel-fencing` | Panel Fencing Canterbury |
-| `https://www.fencingindustries.co.nz/products-services/security-fencing` | Security Fencing Canterbury |
-| `https://www.fencingindustries.co.nz/sectors/educational` | School Fencing Canterbury |
+| `https://www.fencingindustries.co.nz` | fencing services nz, fencing services christchurch, fence contractors nz, Boundary Fence Canterbuty, Commercial Fencing nz |
 | `https://www.fencingindustries.co.nz/products-services/bollards-safety-rails` | Bollards Safety Rails Canterbury |
-| `https://www.fencingindustries.co.nz/products-services/gates` | Sliding Gates Canterbury |
-| `https://www.fencingindustries.co.nz/products-services/timber-post-rail` | Timber Post Rail Fencing Canterbury |
-| `https://www.fencingindustries.co.nz/sectors/high-security-military` | Prison Security Fencing Canterbury |
-| `https://www.fencingindustries.co.nz/products-services/sports-fencing` | Tennis court fence Canterbury |
+| `https://www.fencingindustries.co.nz/products-services/security-fencing` | Chain Link Fencing Canterbury |
+| `https://www.fencingindustries.co.nz/products-services/panel-fencing` | Panel Fencing Christchurch |
+| `https://www.fencingindustries.co.nz/sectors/industrial` | Commercial Fencing Christchurch |
 
 ---
 
@@ -24,26 +20,26 @@ This document serves as the master data source for the Fencing Industries projec
 
 ### Web 2.0 Targets (2 Properties)
 - **1st Web 2.0:**
-  - `https://www.fencingindustries.co.nz/products-services/gates`
-  - `https://www.fencingindustries.co.nz/products-services/timber-post-rail`
+  - `https://www.fencingindustries.co.nz/products-services/bollards-safety-rails`
+  - `https://www.fencingindustries.co.nz/products-services/security-fencing`
 - **2nd Web 2.0:**
-  - `https://www.fencingindustries.co.nz/sectors/high-security-military`
-  - `https://www.fencingindustries.co.nz/products-services/sports-fencing`
+  - `https://www.fencingindustries.co.nz/products-services/panel-fencing`
+  - `https://www.fencingindustries.co.nz/sectors/industrial`
 
 ### Guest Post Targets (2 Posts)
-- **1st Guest Post:** `https://www.fencingindustries.co.nz/products-services/panel-fencing`
+- **1st Guest Post:** `https://www.fencingindustries.co.nz/products-services/bollards-safety-rails`
 - **2nd Guest Post:** `https://www.fencingindustries.co.nz/products-services/security-fencing`
 
 ### Article Submission Targets (2 Articles)
-- **1st Article:** `https://www.fencingindustries.co.nz/sectors/educational`
-- **2nd Article:** `https://www.fencingindustries.co.nz/products-services/bollards-safety-rails`
+- **1st Article:** `https://www.fencingindustries.co.nz/products-services/panel-fencing`
+- **2nd Article:** `https://www.fencingindustries.co.nz/sectors/industrial`
 
 ---
 
 ## 3. Google My Business (GMB) Link
 
 - **GMB URL:** [https://www.google.com/maps?cid=7678028220817432282](https://www.google.com/maps?cid=7678028220817432282)
-- **Approved Keywords:** best fence Contractors Canterbury, fencing services christchurch
+- **Approved Keywords:** Boundary Fence Canterbuty, Commercial Fencing nz
 
 ---
 
