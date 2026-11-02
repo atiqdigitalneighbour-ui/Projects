@@ -17,19 +17,6 @@ This document serves as the master data source for the Pra Developments project.
 | `https://pradevelopments.com.au/belmont-townhouse-developers` | Best Townhouse Developers Belmont |
 | `https://pradevelopments.com.au/properties/147-149-knutsford-ave` | properties knutsford ave |
 | `https://pradevelopments.com.au/belmont-investment-properties` | Investment Properties In Belmont |
-| `https://pradevelopments.com.au/perth-developments` | New Property Developments Perth |
-| `https://pradevelopments.com.au/perth-apartments` | Perth Apartments For Sale |
-| `https://pradevelopments.com.au/perth-5-bedroom-properties` | 5 Bedroom Houses In Perth |
-| `https://pradevelopments.com.au/perth-3-bedroom-properties` | 3 Bedroom Houses In Perth |
-| `https://pradevelopments.com.au/belmont-developments` | New Property Developments Belmont |
-| `https://pradevelopments.com.au/belmont-apartments` | Belmont Apartments For Sale |
-| `https://pradevelopments.com.au/belmont-4-bedroom-properties` | 4 Bedroom Houses In Belmont |
-| `https://pradevelopments.com.au/belmont-5-bedroom-properties` | 5 Bedroom Houses In Belmont |
-| `https://pradevelopments.com.au/perth-apartment-developers` | Perth Apartment Developers |
-| `https://pradevelopments.com.au/belmont-homes-developers` | Belmont Homes Developers |
-| `https://pradevelopments.com.au/belmont-investment-property-developers` | Belmont Investment Property Developers |
-| `https://pradevelopments.com.au/perth-1-bedroom-properties` | 1 Bedroom Properties In Perth |
-| `https://pradevelopments.com.au/belmont-3-bedroom-properties` | 3 Bedroom Houses In Belmont |
 
 ---
 
