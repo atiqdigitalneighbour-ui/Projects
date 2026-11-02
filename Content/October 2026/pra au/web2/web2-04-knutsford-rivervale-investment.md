@@ -52,7 +52,7 @@ Cost blowouts during construction are a well-documented risk for buyers who enga
 
 Researching a developer's completed projects gives buyers a clearer picture of delivery standards and construction quality. It is also worth assessing how accessible the developer is during the process. Buyers who can speak directly with decision-makers, rather than working only through sales representatives, often find that issues or questions are resolved more efficiently.
 
-[PRA Developments](https://pradevelopments.com.au) is a Perth-based residential developer and turnkey builder focused on the inner-east corridor, with completed projects in Rivervale and Kewdale. Their business model is built around fixed-price, fully completed handovers, with direct access to the founding directors throughout the process. Buyers can also find their business profile listed on [Addon Biz](https://www.addonbiz.com/listing/perth-australia-pra-developments/) for additional reference.
+[Property Development Perth](https://pradevelopments.com.au) specialists focused on the inner-east corridor have completed projects in Rivervale and Kewdale built around fixed-price, fully completed handovers, with direct access to the founding directors throughout the process. Buyers can also find their business profile listed on [Addon Biz](https://www.addonbiz.com/listing/perth-australia-pra-developments/) for additional reference.
 
 ---
 

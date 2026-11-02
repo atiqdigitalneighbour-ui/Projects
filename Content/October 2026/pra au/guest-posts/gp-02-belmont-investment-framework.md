@@ -76,7 +76,7 @@ Established properties in Belmont are predominantly brick-and-tile homes built b
 
 New townhouse developments deliver contemporary specifications with new wiring, modern plumbing, insulation that meets current energy efficiency codes, and appliances that carry manufacturer warranties. The maintenance burden in the first decade is substantially lower. For investors who are managing a property portfolio remotely from interstate or overseas, lower maintenance requirements reduce the operational complexity of asset management.
 
-[PRA Developments](https://pradevelopments.com.au), a Perth-based integrated residential developer, structures its Belmont and Rivervale projects as fully fixed-price, 100% turnkey deliveries. This structure removes the post-handover cost uncertainty that often complicates established property acquisitions and allows investors to model returns with a higher degree of confidence.
+[properties for sale in perth](https://pradevelopments.com.au), a Perth-based integrated residential developer, structures its Belmont and Rivervale projects as fully fixed-price, 100% turnkey deliveries. This structure removes the post-handover cost uncertainty that often complicates established property acquisitions and allows investors to model returns with a higher degree of confidence.
 
 ---
 

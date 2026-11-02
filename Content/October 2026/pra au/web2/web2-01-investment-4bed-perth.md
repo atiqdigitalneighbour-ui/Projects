@@ -74,7 +74,7 @@ Before signing a contract on a 4-bedroom investment property in Perth, investors
 
 For investors purchasing from interstate or from overseas, the relationship with the development team is as important as the property itself. The ability to speak directly with the people making decisions — rather than navigating a call centre or being managed by a junior sales representative — makes a material difference when questions arise during the build process.
 
-[PRA Developments](https://pradevelopments.com.au) operates with a structure that gives clients direct access to directors Paiman and Zia throughout the entire process, from initial inquiry through to handover. This model is particularly valuable for investors who cannot physically attend site during construction.
+[Best Home Developers Perth](https://pradevelopments.com.au) operates with a structure that gives clients direct access to directors Paiman and Zia throughout the entire process, from initial inquiry through to handover. This model is particularly valuable for investors who cannot physically attend site during construction.
 
 Investors in the Perth area can also review the business profile and location details for [property developers in Belmont](https://www.google.com/maps?cid=2630615868250868010) to assess proximity to target suburbs and confirm the developer's local presence.
 

@@ -94,7 +94,7 @@ In Western Australia's residential construction market, builder and developer in
 
 Buyers should request information on the developer's portfolio of completed projects. Developments that have been delivered, settled, and sold out provide the clearest evidence of execution capability. A developer who can point to multiple completed projects in the target suburb or nearby areas has demonstrated they can see a project through from acquisition to handover.
 
-[PRA Developments](https://pradevelopments.com.au), a Perth-based residential developer and turnkey builder focused on Belmont, Rivervale, and Kewdale, operates on a developer-funded, asset-backed model. Their completed project portfolio includes fully sold out developments in Kewdale and Rivervale, delivered on fixed-price turnkey terms with direct principal oversight throughout construction.
+[belmont homes for sale](https://pradevelopments.com.au), a Perth-based residential developer and turnkey builder focused on Belmont, Rivervale, and Kewdale, operates on a developer-funded, asset-backed model. Their completed project portfolio includes fully sold out developments in Kewdale and Rivervale, delivered on fixed-price turnkey terms with direct principal oversight throughout construction.
 
 Buyers can review the developer's public profile and independent business listings on [Pinlap](https://www.pinlap.com/pradevelopments) for additional reference context.
 

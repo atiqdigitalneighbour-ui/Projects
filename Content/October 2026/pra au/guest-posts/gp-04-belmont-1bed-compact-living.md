@@ -84,7 +84,7 @@ Buyers and investors should assess:
 
 **Strata structure and levies:** Many compact developments operate as Survey-Strata titles with minimal shared infrastructure. Confirm the levy structure and what it covers to ensure ongoing costs are predictable.
 
-[PRA Developments](https://pradevelopments.com.au), a Perth-based turnkey residential developer focused on Belmont, Rivervale, and Kewdale, delivers compact and larger-format townhouse developments on fixed-price, fully turnkey terms. Their model removes the post-settlement cost uncertainty that affects many buyers entering the compact market for the first time.
+[apartments for sale belmont](https://pradevelopments.com.au), a Perth-based turnkey residential developer focused on Belmont, Rivervale, and Kewdale, delivers compact and larger-format townhouse developments on fixed-price, fully turnkey terms. Their model removes the post-settlement cost uncertainty that affects many buyers entering the compact market for the first time.
 
 ---
 

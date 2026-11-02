@@ -60,7 +60,7 @@ A six-year structural warranty covering the structural components of the buildin
 
 In addition to the structural warranty, ask about the defect liability period, during which the developer or builder is responsible for rectifying non-structural defects identified after handover. Understanding the process for reporting and resolving defects — including who to contact and what the expected response time is — helps buyers manage expectations and plan accordingly.
 
-[PRA Developments](https://pradevelopments.com.au), a Perth-based residential developer and turnkey builder, backs its completed properties with a six-year structural warranty aligned with Australian Standards. Their principals, Paiman and Zia, are directly contactable throughout the process, including after settlement, which simplifies post-handover communication significantly.
+[Best Home Developers Perth](https://pradevelopments.com.au) backs its completed properties with a six-year structural warranty aligned with Australian Standards. Their principals, Paiman and Zia, are directly contactable throughout the process, including after settlement, which simplifies post-handover communication significantly.
 
 ---
 

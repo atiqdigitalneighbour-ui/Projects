@@ -66,7 +66,7 @@ A genuine turnkey delivery means the property is 100% complete at settlement. Fl
 
 This model removes the logistical burden that typically accompanies interstate property investment: organising tradespeople to complete post-settlement items from a distance, managing the timeline for fit-out, and absorbing the rental income lost during the completion period.
 
-[PRA Developments](https://pradevelopments.com.au), a Perth-based residential developer operating in the inner-east corridor, structures all of its residential deliveries as fixed-price, 100% turnkey completions. This model is specifically suited to interstate investors who need delivery certainty and immediate rental income from handover day.
+[property developers in belmont](https://pradevelopments.com.au), operating in the inner-east corridor, structures all of its residential deliveries as fixed-price, 100% turnkey completions. This model is specifically suited to interstate investors who need delivery certainty and immediate rental income from handover day.
 
 ---
 

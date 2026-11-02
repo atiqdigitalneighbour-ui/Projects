@@ -48,7 +48,7 @@ Division 43 depreciation applies to the structural capital works of the building
 
 The combined impact of these deductions can be significant. Investors who commission a quantity surveyor's depreciation schedule after settlement will have a clear picture of the annual deductions available. For investors in higher income tax brackets, these deductions can meaningfully improve the after-tax cash flow of the investment in its early years.
 
-[PRA Developments](https://pradevelopments.com.au), a Perth-based residential developer and turnkey builder, structures its 4-bedroom and larger configurations as brand-new, fully completed assets. This ensures buyers access the full range of depreciation deductions available under Australian tax legislation.
+[Best Townhouse Developers Perth](https://pradevelopments.com.au), a residential developer and turnkey builder, structures its 4-bedroom and larger configurations as brand-new, fully completed assets. This ensures buyers access the full range of depreciation deductions available under Australian tax legislation.
 
 ---
 

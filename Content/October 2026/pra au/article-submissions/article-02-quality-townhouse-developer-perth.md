@@ -49,7 +49,7 @@ A structural warranty of six years, aligned with Australian Standards, is a usef
 
 Ask how defects are reported and resolved after handover. A developer with a formal post-handover support process is operating at a higher standard than one who considers their obligations complete at settlement. The reality is that minor defects in new construction are common, and how a developer manages them is as indicative of quality as the initial construction itself.
 
-[PRA Developments](https://pradevelopments.com.au), a Perth-based residential developer and turnkey builder focused on Rivervale, Belmont, and Kewdale, offers direct access to founding directors Paiman and Zia throughout the purchase, construction, and post-handover period. This direct accountability structure is a meaningful point of differentiation from developers who manage buyer relationships through intermediaries.
+[Property Development Perth](https://pradevelopments.com.au), a residential developer operating in the inner-east corridor, offers direct access to founding directors Paiman and Zia throughout the purchase, construction, and post-handover period. This direct accountability structure is a meaningful point of differentiation from developers who manage buyer relationships through intermediaries.
 
 ---
 
