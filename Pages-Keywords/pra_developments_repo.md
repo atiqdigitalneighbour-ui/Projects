@@ -9,6 +9,14 @@ This document serves as the master data source for the Pra Developments project.
 | Target URL | Approved Keywords |
 | :--- | :--- |
 | `https://pradevelopments.com.au` | Property Developer Perth, property developers in belmont, Property Development Perth, Best Townhouse Developers Perth, Best Home Developers Perth, properties for sale in perth, apartments for sale belmont, belmont homes for sale |
+| `https://pradevelopments.com.au/perth-investment-properties` | Investment Properties Perth |
+| `https://pradevelopments.com.au/perth-4-bedroom-properties` | 4 Bedroom Houses In Perth |
+| `https://pradevelopments.com.au/perth-townhouse-developers` | Best Townhouse Developers Perth |
+| `https://pradevelopments.com.au/properties` | Perth Properties For Sale |
+| `https://pradevelopments.com.au/belmont-1-bedroom-properties` | 1 Bedroom Houses In Belmont |
+| `https://pradevelopments.com.au/belmont-townhouse-developers` | Best Townhouse Developers Belmont |
+| `https://pradevelopments.com.au/properties/147-149-knutsford-ave` | properties knutsford ave |
+| `https://pradevelopments.com.au/belmont-investment-properties` | Investment Properties In Belmont |
 | `https://pradevelopments.com.au/perth-developments` | New Property Developments Perth |
 | `https://pradevelopments.com.au/perth-apartments` | Perth Apartments For Sale |
 | `https://pradevelopments.com.au/perth-5-bedroom-properties` | 5 Bedroom Houses In Perth |
@@ -18,12 +26,9 @@ This document serves as the master data source for the Pra Developments project.
 | `https://pradevelopments.com.au/belmont-4-bedroom-properties` | 4 Bedroom Houses In Belmont |
 | `https://pradevelopments.com.au/belmont-5-bedroom-properties` | 5 Bedroom Houses In Belmont |
 | `https://pradevelopments.com.au/perth-apartment-developers` | Perth Apartment Developers |
-| `https://pradevelopments.com.au/perth-investment-properties` | Perth Investment Properties |
 | `https://pradevelopments.com.au/belmont-homes-developers` | Belmont Homes Developers |
 | `https://pradevelopments.com.au/belmont-investment-property-developers` | Belmont Investment Property Developers |
-| `https://pradevelopments.com.au/properties` | Perth Properties For Sale |
 | `https://pradevelopments.com.au/perth-1-bedroom-properties` | 1 Bedroom Properties In Perth |
-| `https://pradevelopments.com.au/belmont-investment-properties` | Belmont Investment Properties |
 | `https://pradevelopments.com.au/belmont-3-bedroom-properties` | 3 Bedroom Houses In Belmont |
 
 ---
@@ -32,29 +37,29 @@ This document serves as the master data source for the Pra Developments project.
 
 ### Web 2.0 Targets (4 Properties)
 - **1st Web 2.0:**
-  - `https://pradevelopments.com.au/perth-5-bedroom-properties`
-  - `https://pradevelopments.com.au/perth-developments`
+  - `https://pradevelopments.com.au/perth-investment-properties`
+  - `https://pradevelopments.com.au/perth-4-bedroom-properties`
 - **2nd Web 2.0:**
-  - `https://pradevelopments.com.au/perth-3-bedroom-properties`
-  - `https://pradevelopments.com.au/perth-apartments`
+  - `https://pradevelopments.com.au/perth-townhouse-developers`
+  - `https://pradevelopments.com.au/properties`
 - **3rd Web 2.0:**
-  - `https://pradevelopments.com.au/belmont-4-bedroom-properties`
-  - `https://pradevelopments.com.au/belmont-apartments`
+  - `https://pradevelopments.com.au/belmont-1-bedroom-properties`
+  - `https://pradevelopments.com.au/belmont-townhouse-developers`
 - **4th Web 2.0:**
-  - `https://pradevelopments.com.au/belmont-developments`
-  - `https://pradevelopments.com.au/belmont-5-bedroom-properties`
+  - `https://pradevelopments.com.au/properties/147-149-knutsford-ave`
+  - `https://pradevelopments.com.au/belmont-investment-properties`
 
 ### Guest Post Targets (4 Posts)
-- **1st Guest Post:** `https://pradevelopments.com.au/properties`
-- **2nd Guest Post:** `https://pradevelopments.com.au/perth-1-bedroom-properties`
-- **3rd Guest Post:** `https://pradevelopments.com.au/belmont-investment-properties`
-- **4th Guest Post:** `https://pradevelopments.com.au/belmont-3-bedroom-properties`
+- **1st Guest Post:** `https://pradevelopments.com.au/properties/147-149-knutsford-ave`
+- **2nd Guest Post:** `https://pradevelopments.com.au/belmont-investment-properties`
+- **3rd Guest Post:** `https://pradevelopments.com.au/belmont-townhouse-developers`
+- **4th Guest Post:** `https://pradevelopments.com.au/belmont-1-bedroom-properties`
 
 ### Article Submission Targets (4 Articles)
-- **1st Article Submission:** `https://pradevelopments.com.au/perth-apartment-developers`
-- **2nd Article Submission:** `https://pradevelopments.com.au/perth-investment-properties`
-- **3rd Article Submission:** `https://pradevelopments.com.au/belmont-homes-developers`
-- **4th Article Submission:** `https://pradevelopments.com.au/belmont-investment-property-developers`
+- **1st Article Submission:** `https://pradevelopments.com.au/properties`
+- **2nd Article Submission:** `https://pradevelopments.com.au/perth-townhouse-developers`
+- **3rd Article Submission:** `https://pradevelopments.com.au/perth-4-bedroom-properties`
+- **4th Article Submission:** `https://pradevelopments.com.au/perth-investment-properties`
 
 ---
 
