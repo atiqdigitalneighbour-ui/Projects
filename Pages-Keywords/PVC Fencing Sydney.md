@@ -9,14 +9,14 @@ This document serves as the master data source for the PVC Fencing Sydney projec
 | Target URL | Approved Keywords |
 | :--- | :--- |
 | `https://www.pvcfencingsydney.com.au/` | Fencing Contractors Sydney, Fence Panels Sydney, PVC Fencing Products Sydney, fencing supplies sydney, pvc railing fence Sydney |
-| `https://www.pvcfencingsydney.com.au/products/victoria-picket-single-gate` | Picket Style PVC Single Gate Sydney |
-| `https://www.pvcfencingsydney.com.au/products/matilda-full-privacy-sliding-gates` | Full Privacy PVC Sliding Gate Sydney |
-| `https://www.pvcfencingsydney.com.au/pvc-fencing` | Hampton Style PVC Fence Sydney |
-| `https://www.pvcfencingsydney.com.au/products/caroline-semi-privacy-fences` | semi privacy pvc fence Sydney |
 | `https://www.pvcfencingsydney.com.au/pvc-gates` | Hampton Style PVC Gates Sydney |
-| `https://www.pvcfencingsydney.com.au/products/julia-railing-fence` | PVC Railing Fence Sydney |
-| `https://www.pvcfencingsydney.com.au/products/caroline-semi-privacy-double-gates` | Semi Privacy PVC Double Gate Sydney |
-| `https://www.pvcfencingsydney.com.au/products/matilda-full-privacy-fence` | Full Privacy PVC Fence Sydney |
+| `https://www.pvcfencingsydney.com.au/products/victoria-picket-sliding-gates` | Picket Style PVC Sliding Gate Sydney |
+| `https://www.pvcfencingsydney.com.au/products/victoria-picket-fence` | Picket Style PVC Fence Sydney |
+| `https://www.pvcfencingsydney.com.au/products/pergola-outdoor-structure` | PVC Pergola Outdoor Structure |
+| `https://www.pvcfencingsydney.com.au/products/julia-railing-double-gates` | Julia Railing Double Gate Sydney |
+| `https://www.pvcfencingsydney.com.au/products/caroline-semi-privacy-fences` | Caroline Semi Privacy Pvc Fence Sydney |
+| `https://www.pvcfencingsydney.com.au/pvc-fencing` | Hampton Style PVC Fence Installation Sydney |
+| `https://www.pvcfencingsydney.com.au/products/julia-railing-sliding-gate` | Julia Railing Sliding Gate Sydney |
 
 ---
 
@@ -25,25 +25,25 @@ This document serves as the master data source for the PVC Fencing Sydney projec
 ### 2.1 Web 2.0 Target Pages
 
 - **1st Web 2.0:**
-  - `https://www.pvcfencingsydney.com.au/products/victoria-picket-single-gate`
-  - `https://www.pvcfencingsydney.com.au/products/matilda-full-privacy-sliding-gates`
+  - `https://www.pvcfencingsydney.com.au/pvc-gates`
+  - `https://www.pvcfencingsydney.com.au/products/victoria-picket-sliding-gates`
 - **2nd Web 2.0:**
-  - `https://www.pvcfencingsydney.com.au/pvc-fencing`
-  - `https://www.pvcfencingsydney.com.au/products/caroline-semi-privacy-fences`
+  - `https://www.pvcfencingsydney.com.au/products/victoria-picket-fence`
+  - `https://www.pvcfencingsydney.com.au/products/pergola-outdoor-structure`
 
 ---
 
 ### 2.2 Guest Post Target Pages
 
-- **1st Guest Post:** `https://www.pvcfencingsydney.com.au/pvc-gates`
-- **2nd Guest Post:** `https://www.pvcfencingsydney.com.au/products/julia-railing-fence`
+- **1st Guest Post:** `https://www.pvcfencingsydney.com.au/products/julia-railing-double-gates`
+- **2nd Guest Post:** `https://www.pvcfencingsydney.com.au/products/caroline-semi-privacy-fences`
 
 ---
 
 ### 2.3 Article Submission Target Pages
 
-- **1st Article Submission:** `https://www.pvcfencingsydney.com.au/products/caroline-semi-privacy-double-gates`
-- **2nd Article Submission:** `https://www.pvcfencingsydney.com.au/products/matilda-full-privacy-fence`
+- **1st Article Submission:** `https://www.pvcfencingsydney.com.au/pvc-fencing`
+- **2nd Article Submission:** `https://www.pvcfencingsydney.com.au/products/julia-railing-sliding-gate`
 
 ---
 
