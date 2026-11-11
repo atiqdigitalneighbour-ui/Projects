@@ -8,15 +8,15 @@ This document serves as the master data source for the Silva Travel project. It 
 
 | Target URL | Approved Keywords |
 | :--- | :--- |
-| `https://silvatravel.co.nz/` | Travel Agency Auckland, Best Travel Agency In Auckland, book cheapest air tickets nz, flight deals from auckland, cheap flights from auckland |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-thiruvananthapuram` | flights from auckland to thiruvananthapuram |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-sri-lanka` | flights from auckland to sri lanka |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-kochi` | flights from auckland to kochi |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-delhi` | flights from auckland to delhi |
-| `https://silvatravel.co.nz/flights` | cheap flights from auckland |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-fiji` | flights from auckland to fiji |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-melbourne` | flight from auckland to melbourne |
-| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-brisbane` | flights from auckland to brisbane |
+| `https://silvatravel.co.nz/` | book cheapest air tickets nz, flight deals from auckland, cheap flights from auckland |
+| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-amritsar` | Flights From Auckland To Amritsar |
+| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-bangalore` | Flights From Auckland To Bangalore |
+| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-qatar` | Flights From Auckland To Qatar |
+| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-doha` | Flights From Auckland To Doha |
+| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-jordan` | Flights From Auckland To Jordan |
+| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-amman` | Flights From Auckland To Amman |
+| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-somalia` | Flights From Auckland To Somalia |
+| `https://silvatravel.co.nz/destinations/flights-from-auckland-to-mogadishu` | Flights From Auckland To Mogadishu |
 
 ---
 
@@ -26,14 +26,10 @@ This document serves as the master data source for the Silva Travel project. It 
 
 | # | Target URL | Notes |
 | :--- | :--- | :--- |
-| 1 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-thiruvananthapuram` | flights from auckland to thiruvananthapuram |
-| 2 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-sri-lanka` | flights from auckland to sri lanka |
-| 3 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-kochi` | flights from auckland to kochi |
-| 4 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-delhi` | flights from auckland to delhi |
-| 5 | `https://silvatravel.co.nz/flights` | cheap flights from auckland |
-| 6 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-fiji` | flights from auckland to fiji |
-| 7 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-melbourne` | flight from auckland to melbourne |
-| 8 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-brisbane` | flights from auckland to brisbane |
+| 1 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-amritsar`<br>`https://silvatravel.co.nz/destinations/flights-from-auckland-to-bangalore` | Flights From Auckland To Amritsar<br>Flights From Auckland To Bangalore |
+| 2 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-qatar`<br>`https://silvatravel.co.nz/destinations/flights-from-auckland-to-doha` | Flights From Auckland To Qatar<br>Flights From Auckland To Doha |
+| 3 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-jordan`<br>`https://silvatravel.co.nz/destinations/flights-from-auckland-to-amman` | Flights From Auckland To Jordan<br>Flights From Auckland To Amman |
+| 4 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-somalia`<br>`https://silvatravel.co.nz/destinations/flights-from-auckland-to-mogadishu` | Flights From Auckland To Somalia<br>Flights From Auckland To Mogadishu |
 
 ---
 
@@ -41,10 +37,10 @@ This document serves as the master data source for the Silva Travel project. It 
 
 | # | Target URL | Notes |
 | :--- | :--- | :--- |
-| 1 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-thiruvananthapuram` | flights from auckland to thiruvananthapuram |
-| 2 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-kochi` | flights from auckland to kochi |
-| 3 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-fiji` | flights from auckland to fiji |
-| 4 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-melbourne` | flight from auckland to melbourne |
+| 1 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-bangalore` | Flights From Auckland To Bangalore |
+| 2 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-doha` | Flights From Auckland To Doha |
+| 3 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-amman` | Flights From Auckland To Amman |
+| 4 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-mogadishu` | Flights From Auckland To Mogadishu |
 
 ---
 
@@ -52,10 +48,10 @@ This document serves as the master data source for the Silva Travel project. It 
 
 | # | Target URL | Notes |
 | :--- | :--- | :--- |
-| 1 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-sri-lanka` | flights from auckland to sri lanka |
-| 2 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-delhi` | flights from auckland to delhi |
-| 3 | `https://silvatravel.co.nz/flights` | cheap flights from auckland |
-| 4 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-brisbane` | flights from auckland to brisbane |
+| 1 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-amritsar` | Flights From Auckland To Amritsar |
+| 2 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-qatar` | Flights From Auckland To Qatar |
+| 3 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-jordan` | Flights From Auckland To Jordan |
+| 4 | `https://silvatravel.co.nz/destinations/flights-from-auckland-to-somalia` | Flights From Auckland To Somalia |
 
 ---
 
