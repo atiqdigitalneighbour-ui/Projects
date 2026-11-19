@@ -9,14 +9,14 @@ This document serves as the master data source for the Concrete Sealing and Grin
 | Target URL | Approved Keywords |
 | :--- | :--- |
 | `https://concretesealing.co.nz/` | Concrete Polishing nz, Concrete Sealing nz, Concrete Sealing Services nz, Concrete Sealing In Christchurch, concrete floor polishing canterbury, commercial concrete grinding christchurch, best concrete finishing christchurch |
-| `https://concretesealing.co.nz/polished-concrete-living-areas` | Polished Concrete Living Areas in Christchurch |
-| `https://concretesealing.co.nz/locations/canterbury` | Concrete Floor Polishing Canterbury |
 | `https://concretesealing.co.nz/services/repairs-prep` | Residential Concrete Repair Services Christchurch |
-| `https://concretesealing.co.nz/services/concrete-grinding` | Best Concrete Grinding Services Christchurch |
+| `https://concretesealing.co.nz/services/epoxy-coatings` | Best Epoxy Flooring Services In Christchurch |
+| `https://concretesealing.co.nz/gym-fitness-flooring` | Gym & Fitness Center Flooring in Christchurch |
+| `https://concretesealing.co.nz/kitchen-hallway-concrete-floors` | Kitchen & Hallway Concrete Floors in Christchurch |
+| `https://concretesealing.co.nz/locations/canterbury` | best concrete Floor Polishing in Canterbury |
 | `https://concretesealing.co.nz/services/concrete-polishing` | Residential Concrete Floor Polishing In Christchurch |
-| `https://concretesealing.co.nz/garage-epoxy-flooring` | Garage Epoxy Flooring in Christchurch |
-| `https://concretesealing.co.nz/retail-supermarket-flooring` | Retail & Supermarket Flooring in Christchurch |
-| `https://concretesealing.co.nz/locations/rangiora` | best concrete Floor Polishing Rangiora |
+| `https://concretesealing.co.nz/services/concrete-grinding` | Best Concrete Grinding Services Christchurch |
+| `https://concretesealing.co.nz/services/polished-concrete-finishes` | best concrete Finishing Services Christchurch |
 
 ---
 
@@ -26,29 +26,29 @@ This document serves as the master data source for the Concrete Sealing and Grin
 
 ### Web 2.0 Targets (4 Properties)
 - **1st Web 2.0:**
-  - `https://concretesealing.co.nz/polished-concrete-living-areas`
-  - `https://concretesealing.co.nz/locations/canterbury`
-- **2nd Web 2.0:**
   - `https://concretesealing.co.nz/services/repairs-prep`
-  - `https://concretesealing.co.nz/services/concrete-grinding`
+  - `https://concretesealing.co.nz/services/epoxy-coatings`
+- **2nd Web 2.0:**
+  - `https://concretesealing.co.nz/gym-fitness-flooring`
+  - `https://concretesealing.co.nz/kitchen-hallway-concrete-floors`
 - **3rd Web 2.0:**
+  - `https://concretesealing.co.nz/locations/canterbury`
   - `https://concretesealing.co.nz/services/concrete-polishing`
-  - `https://concretesealing.co.nz/garage-epoxy-flooring`
 - **4th Web 2.0:**
-  - `https://concretesealing.co.nz/retail-supermarket-flooring`
-  - `https://concretesealing.co.nz/locations/rangiora`
+  - `https://concretesealing.co.nz/services/concrete-grinding`
+  - `https://concretesealing.co.nz/services/polished-concrete-finishes`
 
 ### Guest Post Targets (4 Posts)
-- **1st Guest Post:** `https://concretesealing.co.nz/polished-concrete-living-areas`
-- **2nd Guest Post:** `https://concretesealing.co.nz/locations/canterbury`
-- **3rd Guest Post:** `https://concretesealing.co.nz/retail-supermarket-flooring`
-- **4th Guest Post:** `https://concretesealing.co.nz/services/concrete-grinding`
+- **1st Guest Post:** `https://concretesealing.co.nz/services/repairs-prep`
+- **2nd Guest Post:** `https://concretesealing.co.nz/gym-fitness-flooring`
+- **3rd Guest Post:** `https://concretesealing.co.nz/services/concrete-polishing`
+- **4th Guest Post:** `https://concretesealing.co.nz/services/polished-concrete-finishes`
 
 ### Article Submission Targets (4 Articles)
-- **1st Article:** `https://concretesealing.co.nz/services/repairs-prep`
-- **2nd Article:** `https://concretesealing.co.nz/garage-epoxy-flooring`
-- **3rd Article:** `https://concretesealing.co.nz/services/concrete-polishing`
-- **4th Article:** `https://concretesealing.co.nz/locations/rangiora`
+- **1st Article:** `https://concretesealing.co.nz/services/epoxy-coatings`
+- **2nd Article:** `https://concretesealing.co.nz/kitchen-hallway-concrete-floors`
+- **3rd Article:** `https://concretesealing.co.nz/locations/canterbury`
+- **4th Article:** `https://concretesealing.co.nz/services/concrete-grinding`
 
 ---
 
