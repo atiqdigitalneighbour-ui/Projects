@@ -9,10 +9,10 @@ This document serves as the master data source for the Window Tinting project. I
 | Target URL | Approved Keywords |
 | :--- | :--- |
 | `https://window-tinting.co.nz/` | window film services, window tinting wanaka, window tinting services nz, best window privacy film |
-| `https://window-tinting.co.nz/residential/` | Residential Window Tinting |
-| `https://window-tinting.co.nz/commercial/` | Commercial Window Tinting |
-| `https://window-tinting.co.nz/window-tint-film/` | window tint film |
-| `https://window-tinting.co.nz/window-tinting-christchurch/` | Window Film Christchurch |
+| `https://window-tinting.co.nz/window-tint-film/` | Best Window Tint Film nz |
+| `https://window-tinting.co.nz/window-frosting/` | Best Window Frosting Film nz |
+| `https://window-tinting.co.nz/tinted-windows/` | Best Tinted Windows nz |
+| `https://window-tinting.co.nz/window-tinting-wanaka/` | Window Film Wanaka nz |
 
 ---
 
@@ -22,19 +22,19 @@ This document serves as the master data source for the Window Tinting project. I
 
 ### Web 2.0 Targets
 - **1st Web 2.0:**
-  - `https://window-tinting.co.nz/residential/`
-  - `https://window-tinting.co.nz/commercial/`
-- **2nd Web 2.0:**
   - `https://window-tinting.co.nz/window-tint-film/`
-  - `https://window-tinting.co.nz/window-tinting-christchurch/`
+  - `https://window-tinting.co.nz/window-frosting/`
+- **2nd Web 2.0:**
+  - `https://window-tinting.co.nz/tinted-windows/`
+  - `https://window-tinting.co.nz/window-tinting-wanaka/`
 
 ### Guest Post Targets
-- **1st Guest Post:** `https://window-tinting.co.nz/window-tint-film/`
-- **2nd Guest Post:** `https://window-tinting.co.nz/window-tinting-christchurch/`
+- **1st Guest Post:** `https://window-tinting.co.nz/tinted-windows/`
+- **2nd Guest Post:** `https://window-tinting.co.nz/window-tinting-wanaka/`
 
 ### Article Submission Targets
-- **1st Article:** `https://window-tinting.co.nz/residential/`
-- **2nd Article:** `https://window-tinting.co.nz/commercial/`
+- **1st Article:** `https://window-tinting.co.nz/window-tint-film/`
+- **2nd Article:** `https://window-tinting.co.nz/window-frosting/`
 
 ---
 
